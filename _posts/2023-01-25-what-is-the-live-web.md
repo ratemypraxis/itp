@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Live Media?
+title: What is the Live Web?
 description: 
 summary: 
 tags: live-web 
