@@ -1,8 +1,8 @@
 ---
 layout: post
 title: What is Live Media?
-description: This is a collection of short CSS snippets I thought might be useful for beginners
-summary: This is a collection of short CSS snippets I thought might be useful for beginners.
+description: 
+summary: 
 tags: live-web 
 ---
 What is the Live Web? 
