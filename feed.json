@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "https://ratemypraxis.github.io/itp/2023/01/25/what-is-live-media",
+            "title": "What is Live Media?",
+            "summary": "This is a collection of short CSS snippets I thought might be useful for beginners",
+            "content_text": "Homework: Write a blog post detailing the last “live” media you consumed. Answer these questions: What was it? Why did you consume it “live” or in real time? How was your relationship to the media or others affected through the “live” consumption of it? What was missing in your experience?Assignment: use html, javascript, css with media elements to make a self-portrait in any sense of the term. think about multiple media, interaction, time based interaction in the context of a webpage.int main (){\tint hello = 3;\tchar world = 'w';}",
+            "content_html": "<p>Homework: Write a blog post detailing the last “live” media you consumed. Answer these questions: What was it? Why did you consume it “live” or in real time? How was your relationship to the media or others affected through the “live” consumption of it? What was missing in your experience?</p><p>Assignment: use html, javascript, css with media elements to make a self-portrait in any sense of the term. think about multiple media, interaction, time based interaction in the context of a webpage.</p><div class=\"language-c highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code><span class=\"kt\">int</span> <span class=\"nf\">main</span> <span class=\"p\">(){</span>\t<span class=\"kt\">int</span> <span class=\"n\">hello</span> <span class=\"o\">=</span> <span class=\"mi\">3</span><span class=\"p\">;</span>\t<span class=\"kt\">char</span> <span class=\"n\">world</span> <span class=\"o\">=</span> <span class=\"sc\">'w'</span><span class=\"p\">;</span><span class=\"p\">}</span></code></pre></div></div>",
+            "url": "https://ratemypraxis.github.io/itp/2023/01/25/what-is-live-media",
+            
+            
+            
+            
+            
+            "date_published": "2023-01-25T00:00:00+01:00",
+            "date_modified": "2023-01-25T00:00:00+01:00",
+            
+                "author":  {
+                "name": "Sim / Sam Hafferty",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "https://ratemypraxis.github.io/itp/2019/08/31/difference-between-font-formats",
             "title": "Difference between font formats",
             "summary": "What is the difference between various font formats?",

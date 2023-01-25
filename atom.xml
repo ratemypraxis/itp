@@ -4,13 +4,31 @@
  <title>itp blog</title>
  <link href="https://ratemypraxis.github.io/itp/atom.xml" rel="self"/>
  <link href="https://ratemypraxis.github.io/itp/"/>
- <updated>2023-01-25T22:08:30+01:00</updated>
+ <updated>2023-01-25T22:37:45+01:00</updated>
  <id>https://ratemypraxis.github.io</id>
  <author>
    <name>Sim / Sam Hafferty</name>
    <email>your-email@email.com</email>
  </author>
 
+ 
+ <entry>
+   <title>What is Live Media?</title>
+   <link href="https://ratemypraxis.github.io/itp/2023/01/25/what-is-live-media"/>
+   <updated>2023-01-25T00:00:00+01:00</updated>
+   <id>https://ratemypraxis.github.io/2023/01/25/what-is-live-media</id>
+   <content type="html">&lt;p&gt;Homework: Write a blog post detailing the last “live” media you consumed. Answer these questions: What was it? Why did you consume it “live” or in real time? How was your relationship to the media or others affected through the “live” consumption of it? What was missing in your experience?&lt;/p&gt;
+
+&lt;p&gt;Assignment: use html, javascript, css with media elements to make a self-portrait in any sense of the term. think about multiple media, interaction, time based interaction in the context of a webpage.&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
+	&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;hello&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;world&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;sc&quot;&gt;&apos;w&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Difference between font formats</title>
