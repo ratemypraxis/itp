@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Week 1] Redesigning Interaction
+title: Redesigning Interaction
 description: 
 summary: 
 comments: true
@@ -24,7 +24,7 @@ How the sensing system works.
     1) Take a closer look at the system for some time and play with it by trying different actions. What did you find out? What is the most common error of the system?
     2) Search relevant information online. Consider these questions: Which sensors are being use in the current systems using? How are they programmed? How are they embedded on the device? How do they decide when to activate (flushing, dispensing, making sound…)? 
 
-3 [Optional] Ideation
+3 Ideation
 
 If you have more time after observation and research, identify what the most common errors are in the system, and answer either of these questions. Feel free to make a simple sketch of your ideas. * Note that this is about ideation only and you’re not expected to make anything for this. The examples by previous students below show prototypes since the instruction was different at that time.
 
