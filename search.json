@@ -19,12 +19,12 @@
     } ,
   
     {
-      "title"    : "Page specific assets in Jekyll",
-      "description" : "How to set a custom CSS or JS for each page",
+      "title"    : "Intro to Machine Learning, MobileNet",
+      "description" : "",
       "category" : "",
-      "tags"     : "coding, jekyll",
-      "url"      : "/itp/2018/11/12/page-specific-assets-in-jekyll",
-      "date"     : "2018-11-12 00:00:00 +0100"
+      "tags"     : "ML-for-web",
+      "url"      : "/itp/2023/01/25/intro-to-ml",
+      "date"     : "2023-01-25 00:00:00 +0100"
     } ,
   
     {
