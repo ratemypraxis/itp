@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="https://ratemypraxis.github.io/itp/atom.xml" rel="self"/>
  <link href="https://ratemypraxis.github.io/itp/"/>
- <updated>2023-01-25T22:49:51+01:00</updated>
+ <updated>2023-01-25T22:53:48+01:00</updated>
  <id>https://ratemypraxis.github.io</id>
  <author>
    <name>Sim / Sam Hafferty</name>
@@ -13,10 +13,23 @@
 
  
  <entry>
-   <title></title>
-   <link href="https://ratemypraxis.github.io/itp/2023/01/25/2023-01-25-redesigning-interaction"/>
-   <updated>2023-01-25T22:49:51+01:00</updated>
-   <id>https://ratemypraxis.github.io/2023/01/25/2023-01-25-redesigning-interaction</id>
+   <title>What is the Live Web?</title>
+   <link href="https://ratemypraxis.github.io/itp/2023/01/25/what-is-the-live-web"/>
+   <updated>2023-01-25T00:00:00+01:00</updated>
+   <id>https://ratemypraxis.github.io/2023/01/25/what-is-the-live-web</id>
+   <content type="html">&lt;p&gt;What is the Live Web?&lt;/p&gt;
+
+&lt;p&gt;Homework: Write a blog post detailing the last “live” media you consumed. Answer these questions: What was it? Why did you consume it “live” or in real time? How was your relationship to the media or others affected through the “live” consumption of it? What was missing in your experience?&lt;/p&gt;
+
+&lt;p&gt;Assignment: use html, javascript, css with media elements to make a self-portrait in any sense of the term. think about multiple media, interaction, time based interaction in the context of a webpage.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Redesigning Interaction</title>
+   <link href="https://ratemypraxis.github.io/itp/2023/01/25/redesigning-interaction"/>
+   <updated>2023-01-25T00:00:00+01:00</updated>
+   <id>https://ratemypraxis.github.io/2023/01/25/redesigning-interaction</id>
    <content type="html">&lt;p&gt;Due Week 2 (Blog post by 7pm on Monday, January 31)&lt;/p&gt;
 
 &lt;p&gt;1 Observation&lt;/p&gt;
@@ -34,7 +47,7 @@ example of implicit interaction design frameworkAn example of an analysis using 
 2) Search relevant information online. Consider these questions: Which sensors are being use in the current systems using? How are they programmed? How are they embedded on the device? How do they decide when to activate (flushing, dispensing, making sound…)? 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;3 [Optional] Ideation&lt;/p&gt;
+&lt;p&gt;3 Ideation&lt;/p&gt;
 
 &lt;p&gt;If you have more time after observation and research, identify what the most common errors are in the system, and answer either of these questions. Feel free to make a simple sketch of your ideas. * Note that this is about ideation only and you’re not expected to make anything for this. The examples by previous students below show prototypes since the instruction was different at that time.&lt;/p&gt;
 
@@ -44,19 +57,6 @@ example of implicit interaction design frameworkAn example of an analysis using 
 Option 2. Can you think of creative ways of taking advantage of the erroneous system? It can be a whimsical interaction that is totally useless.
     In case you’re curious, some examples from past years’ students are (with a focus on toilet): Lu Lyu’s Kissing Frog, Name and Themis’ Gamble Flusher, Rae and Yiting’s Pooping Toilet
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>What is the Live Web?</title>
-   <link href="https://ratemypraxis.github.io/itp/2023/01/25/what-is-the-live-web"/>
-   <updated>2023-01-25T00:00:00+01:00</updated>
-   <id>https://ratemypraxis.github.io/2023/01/25/what-is-the-live-web</id>
-   <content type="html">&lt;p&gt;What is the Live Web?&lt;/p&gt;
-
-&lt;p&gt;Homework: Write a blog post detailing the last “live” media you consumed. Answer these questions: What was it? Why did you consume it “live” or in real time? How was your relationship to the media or others affected through the “live” consumption of it? What was missing in your experience?&lt;/p&gt;
-
-&lt;p&gt;Assignment: use html, javascript, css with media elements to make a self-portrait in any sense of the term. think about multiple media, interaction, time based interaction in the context of a webpage.&lt;/p&gt;
 </content>
  </entry>
  
