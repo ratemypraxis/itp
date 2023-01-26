@@ -4,13 +4,46 @@
  <title>itp blog</title>
  <link href="https://ratemypraxis.github.io/itp/atom.xml" rel="self"/>
  <link href="https://ratemypraxis.github.io/itp/"/>
- <updated>2023-01-25T23:01:20+01:00</updated>
+ <updated>2023-01-26T15:47:48+01:00</updated>
  <id>https://ratemypraxis.github.io</id>
  <author>
    <name>Sim / Sam Hafferty</name>
    <email>your-email@email.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Making a small box</title>
+   <link href="https://ratemypraxis.github.io/itp/2023/01/26/small-box"/>
+   <updated>2023-01-26T00:00:00+01:00</updated>
+   <id>https://ratemypraxis.github.io/2023/01/26/small-box</id>
+   <content type="html">&lt;p&gt;**How I made my first little box
+**&lt;/p&gt;
+
+&lt;p&gt;First I went ahead and selected a piece of wood to start from. I went with this long piece from the scrap bin, it might even be the same piece used in class for the demo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;preBoxWood.png&quot; alt=&quot;rectangular piece of wood held by an arm wearing a colorful striped sweater.&quot; width=&quot;700&quot; height=&quot;744&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, after turning on the dust collecter thing, I went ahead and sanded all sides of the piece on one end.&lt;/p&gt;
+
+&lt;p&gt;Then I measures the piece out and marked where I could cut it to make a perfect square.&lt;/p&gt;
+
+&lt;p&gt;After that I cut it with the circular saw before taking it to the drill press where this occured.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;issuewk1fab.png&quot; alt=&quot;A small square piece of wood stuck in a drill bit attached to a drill press.&quot; width=&quot;700&quot; height=&quot;744&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I stop the drill press immediatley and just moved on because I though it had gone in enough. After cutting a bit of bit of wood off of the side off to make a lid using the belt saw I realized that the drill bit had not gone in deep enough to extent beyond where I cut the lid. So I decided to start all over again.&lt;/p&gt;
+
+&lt;p&gt;I repeated everything above again (except the measuring and cutting to square moment). When I got to the drill press I was able to get a bit more progress, I think because I had adjusted the height and moved a little quicker but because their was no clamp the piece of wood stuck to the drill bit and spun around, I again stopped the drill press and just moved on to the belt saw where I cut the lid just right to have a hold from the press present on both pieces.&lt;/p&gt;
+
+&lt;p&gt;I returned to the press to make use of one of those big bits from the drawer. Immediatley it was clear that without a clamp I was gonna get nowhere so I consulted the shop staff on duty who suggessted using the big bit in a hand drill with the table clamp. While this process took a bit more force and time it seemed to have a similar effect (although the hole is a little oval-like). I then tried inserting a screw with the hand dril but as always it got crooked so I undid it with a screwdriver and was able to put it in more straight using that tool. Lastly, I went a little silly and started to color over accent lines with a purple sharpie but the ink spread within the wood grains which I am not very happy with.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;box1closed.png&quot; alt=&quot;A small square piece of wood stuck in a drill bit attached to a drill press.&quot; width=&quot;700&quot; height=&quot;744&quot; /&gt;
+ &lt;img src=&quot;box1open.png&quot; alt=&quot;A small square piece of wood stuck in a drill bit attached to a drill press.&quot; width=&quot;700&quot; height=&quot;744&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I had to leave town last minute to deal with a family situation but if I have time when I return I want to try decorating it with other materials and try to make another box using this piece of wood I cut from a bigger cylinder piece in the scrap bin.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>What is the Live Web?</title>
@@ -57,20 +90,6 @@ example of implicit interaction design frameworkAn example of an analysis using 
 Option 2. Can you think of creative ways of taking advantage of the erroneous system? It can be a whimsical interaction that is totally useless.
     In case you’re curious, some examples from past years’ students are (with a focus on toilet): Lu Lyu’s Kissing Frog, Name and Themis’ Gamble Flusher, Rae and Yiting’s Pooping Toilet
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Intro to Machine Learning, MobileNet</title>
-   <link href="https://ratemypraxis.github.io/itp/2023/01/25/intro-to-ml"/>
-   <updated>2023-01-25T00:00:00+01:00</updated>
-   <id>https://ratemypraxis.github.io/2023/01/25/intro-to-ML</id>
-   <content type="html">&lt;p&gt;Video:
-  Intro to ml5
-  Image classifier with ml5 and MobileNet on image, and webcam
-Coding:
-  Build on top of the image classifier example(demo) from the coding session. Publish it on your blog / GitHub. Add your homework link to the list below.
-  Or try any of the ml5js examples, make something based on any of these examples.&lt;/p&gt;
 </content>
  </entry>
  

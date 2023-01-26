@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Making a small box",
+      "description" : "",
+      "category" : "",
+      "tags"     : "fabrication",
+      "url"      : "/itp/2023/01/26/small-box",
+      "date"     : "2023-01-26 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "What is the Live Web?",
       "description" : "",
       "category" : "",
@@ -15,15 +24,6 @@
       "category" : "",
       "tags"     : "intangible-interaction",
       "url"      : "/itp/2023/01/25/redesigning-interaction",
-      "date"     : "2023-01-25 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Intro to Machine Learning, MobileNet",
-      "description" : "",
-      "category" : "",
-      "tags"     : "ML-for-web",
-      "url"      : "/itp/2023/01/25/intro-to-ml",
       "date"     : "2023-01-25 00:00:00 +0100"
     } ,
   
