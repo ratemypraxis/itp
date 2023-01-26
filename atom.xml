@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>itp blog</title>
- <link href="/atom.xml" rel="self"/>
- <link href="/"/>
- <updated>2023-01-26T20:28:48+00:00</updated>
+ <link href="/itp/atom.xml" rel="self"/>
+ <link href="/itp/"/>
+ <updated>2023-01-26T20:31:48+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Making a small box</title>
-   <link href="/2023/01/26/small-box"/>
+   <link href="/itp/2023/01/26/small-box"/>
    <updated>2023-01-26T00:00:00+00:00</updated>
    <id>/2023/01/26/small-box</id>
    <content type="html">&lt;h2&gt;How I made my first little box&lt;/h2&gt;
@@ -52,7 +52,7 @@
  
  <entry>
    <title>What is the Live Web?</title>
-   <link href="/2023/01/25/what-is-the-live-web"/>
+   <link href="/itp/2023/01/25/what-is-the-live-web"/>
    <updated>2023-01-25T00:00:00+00:00</updated>
    <id>/2023/01/25/what-is-the-live-web</id>
    <content type="html">&lt;p&gt;What is the Live Web?&lt;/p&gt;
@@ -65,7 +65,7 @@
  
  <entry>
    <title>Redesigning Interaction</title>
-   <link href="/2023/01/25/redesigning-interaction"/>
+   <link href="/itp/2023/01/25/redesigning-interaction"/>
    <updated>2023-01-25T00:00:00+00:00</updated>
    <id>/2023/01/25/redesigning-interaction</id>
    <content type="html">&lt;p&gt;Due Week 2 (Blog post by 7pm on Monday, January 31)&lt;/p&gt;
