@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: ratemypraxis.github.io/sitemap.xml
+Sitemap: /sitemap.xml

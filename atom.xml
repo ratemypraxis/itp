@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>itp blog</title>
- <link href="ratemypraxis.github.io/itp/atom.xml" rel="self"/>
- <link href="ratemypraxis.github.io/itp/"/>
- <updated>2023-01-26T20:20:57+00:00</updated>
- <id>ratemypraxis.github.io</id>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2023-01-26T20:28:48+00:00</updated>
+ <id></id>
  <author>
    <name>sim</name>
    <email>sh4712@nyu.edu</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Making a small box</title>
-   <link href="ratemypraxis.github.io/itp/2023/01/26/small-box"/>
+   <link href="/2023/01/26/small-box"/>
    <updated>2023-01-26T00:00:00+00:00</updated>
-   <id>ratemypraxis.github.io/2023/01/26/small-box</id>
+   <id>/2023/01/26/small-box</id>
    <content type="html">&lt;h2&gt;How I made my first little box&lt;/h2&gt;
 
 &lt;p&gt;First I went ahead and selected a piece of wood to start from. I went with this long piece from the scrap bin, it might even be the same piece used in class for the demo.&lt;/p&gt;
@@ -52,9 +52,9 @@
  
  <entry>
    <title>What is the Live Web?</title>
-   <link href="ratemypraxis.github.io/itp/2023/01/25/what-is-the-live-web"/>
+   <link href="/2023/01/25/what-is-the-live-web"/>
    <updated>2023-01-25T00:00:00+00:00</updated>
-   <id>ratemypraxis.github.io/2023/01/25/what-is-the-live-web</id>
+   <id>/2023/01/25/what-is-the-live-web</id>
    <content type="html">&lt;p&gt;What is the Live Web?&lt;/p&gt;
 
 &lt;p&gt;Homework: Write a blog post detailing the last “live” media you consumed. Answer these questions: What was it? Why did you consume it “live” or in real time? How was your relationship to the media or others affected through the “live” consumption of it? What was missing in your experience?&lt;/p&gt;
@@ -65,9 +65,9 @@
  
  <entry>
    <title>Redesigning Interaction</title>
-   <link href="ratemypraxis.github.io/itp/2023/01/25/redesigning-interaction"/>
+   <link href="/2023/01/25/redesigning-interaction"/>
    <updated>2023-01-25T00:00:00+00:00</updated>
-   <id>ratemypraxis.github.io/2023/01/25/redesigning-interaction</id>
+   <id>/2023/01/25/redesigning-interaction</id>
    <content type="html">&lt;p&gt;Due Week 2 (Blog post by 7pm on Monday, January 31)&lt;/p&gt;
 
 &lt;p&gt;1 Observation&lt;/p&gt;
