@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Redesigning Interaction
+title: Redesigning Interaction [Intangible Interaction]
 description: 
 summary: 
 comments: true

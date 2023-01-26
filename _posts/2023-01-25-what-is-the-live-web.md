@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is the Live Web?
+title: What is the Live Web? [Live Web]
 description: 
 summary: 
 tags: live-web 
