@@ -6,7 +6,7 @@
       "category" : "",
       "tags"     : "fabrication",
       "url"      : "/itp/2023/01/26/small-box",
-      "date"     : "2023-01-26 00:00:00 +0100"
+      "date"     : "2023-01-26 00:00:00 +0000"
     } ,
   
     {
@@ -15,7 +15,7 @@
       "category" : "",
       "tags"     : "live-web",
       "url"      : "/itp/2023/01/25/what-is-the-live-web",
-      "date"     : "2023-01-25 00:00:00 +0100"
+      "date"     : "2023-01-25 00:00:00 +0000"
     } ,
   
     {
@@ -24,7 +24,7 @@
       "category" : "",
       "tags"     : "intangible-interaction",
       "url"      : "/itp/2023/01/25/redesigning-interaction",
-      "date"     : "2023-01-25 00:00:00 +0100"
+      "date"     : "2023-01-25 00:00:00 +0000"
     } ,
   
     {
@@ -33,7 +33,7 @@
       "category" : "",
       "tags"     : "jekyll, coding",
       "url"      : "/itp/2018/09/20/jekyll-reading-time-without-plugins",
-      "date"     : "2018-09-20 00:00:00 +0200"
+      "date"     : "2018-09-20 00:00:00 +0000"
     } ,
   
     {
@@ -42,7 +42,7 @@
       "category" : "",
       "tags"     : "coding, wordpress",
       "url"      : "/itp/2018/08/18/top-plugins-for-wordpress-websites",
-      "date"     : "2018-08-18 00:00:00 +0200"
+      "date"     : "2018-08-18 00:00:00 +0000"
     } ,
   
     {
@@ -51,7 +51,7 @@
       "category" : "",
       "tags"     : "coding, jekyll",
       "url"      : "/itp/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge",
-      "date"     : "2018-02-05 00:00:00 +0100"
+      "date"     : "2018-02-05 00:00:00 +0000"
     } ,
   
     {
@@ -60,7 +60,7 @@
       "category" : "",
       "tags"     : "jekyll, coding",
       "url"      : "/itp/2018/02/03/image-captions-in-jekyll",
-      "date"     : "2018-02-03 00:00:00 +0100"
+      "date"     : "2018-02-03 00:00:00 +0000"
     } ,
   
     {
@@ -69,7 +69,7 @@
       "category" : "",
       "tags"     : "coding, jekyll",
       "url"      : "/itp/2017/01/03/creating-navigation-menu-in-jekyll",
-      "date"     : "2017-01-03 00:00:00 +0100"
+      "date"     : "2017-01-03 00:00:00 +0000"
     } ,
   
     {
@@ -78,7 +78,7 @@
       "category" : "",
       "tags"     : "css, coding",
       "url"      : "/itp/2014/05/12/css-hacks-you-may-not-know",
-      "date"     : "2014-05-12 00:00:00 +0200"
+      "date"     : "2014-05-12 00:00:00 +0000"
     } 
   
 ]

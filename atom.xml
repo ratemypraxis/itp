@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>itp blog</title>
- <link href="https://ratemypraxis.github.io/itp/atom.xml" rel="self"/>
- <link href="https://ratemypraxis.github.io/itp/"/>
- <updated>2023-01-26T16:04:57+01:00</updated>
- <id>https://ratemypraxis.github.io</id>
+ <link href="2nd.systems/itp/atom.xml" rel="self"/>
+ <link href="2nd.systems/itp/"/>
+ <updated>2023-01-26T19:57:56+00:00</updated>
+ <id>2nd.systems</id>
  <author>
-   <name>Sim / Sam Hafferty</name>
-   <email>your-email@email.com</email>
+   <name>Sim</name>
+   <email>sh4712@nyu.edu</email>
  </author>
 
  
  <entry>
    <title>Making a small box</title>
-   <link href="https://ratemypraxis.github.io/itp/2023/01/26/small-box"/>
-   <updated>2023-01-26T00:00:00+01:00</updated>
-   <id>https://ratemypraxis.github.io/2023/01/26/small-box</id>
+   <link href="2nd.systems/itp/2023/01/26/small-box"/>
+   <updated>2023-01-26T00:00:00+00:00</updated>
+   <id>2nd.systems/2023/01/26/small-box</id>
    <content type="html">&lt;p&gt;**How I made my first little box
 **&lt;/p&gt;
 
@@ -52,9 +52,9 @@
  
  <entry>
    <title>What is the Live Web?</title>
-   <link href="https://ratemypraxis.github.io/itp/2023/01/25/what-is-the-live-web"/>
-   <updated>2023-01-25T00:00:00+01:00</updated>
-   <id>https://ratemypraxis.github.io/2023/01/25/what-is-the-live-web</id>
+   <link href="2nd.systems/itp/2023/01/25/what-is-the-live-web"/>
+   <updated>2023-01-25T00:00:00+00:00</updated>
+   <id>2nd.systems/2023/01/25/what-is-the-live-web</id>
    <content type="html">&lt;p&gt;What is the Live Web?&lt;/p&gt;
 
 &lt;p&gt;Homework: Write a blog post detailing the last “live” media you consumed. Answer these questions: What was it? Why did you consume it “live” or in real time? How was your relationship to the media or others affected through the “live” consumption of it? What was missing in your experience?&lt;/p&gt;
@@ -65,9 +65,9 @@
  
  <entry>
    <title>Redesigning Interaction</title>
-   <link href="https://ratemypraxis.github.io/itp/2023/01/25/redesigning-interaction"/>
-   <updated>2023-01-25T00:00:00+01:00</updated>
-   <id>https://ratemypraxis.github.io/2023/01/25/redesigning-interaction</id>
+   <link href="2nd.systems/itp/2023/01/25/redesigning-interaction"/>
+   <updated>2023-01-25T00:00:00+00:00</updated>
+   <id>2nd.systems/2023/01/25/redesigning-interaction</id>
    <content type="html">&lt;p&gt;Due Week 2 (Blog post by 7pm on Monday, January 31)&lt;/p&gt;
 
 &lt;p&gt;1 Observation&lt;/p&gt;
@@ -100,9 +100,9 @@ Option 2. Can you think of creative ways of taking advantage of the erroneous sy
  
  <entry>
    <title>Jekyll reading time without plugins</title>
-   <link href="https://ratemypraxis.github.io/itp/2018/09/20/jekyll-reading-time-without-plugins"/>
-   <updated>2018-09-20T00:00:00+02:00</updated>
-   <id>https://ratemypraxis.github.io/2018/09/20/jekyll-reading-time-without-plugins</id>
+   <link href="2nd.systems/itp/2018/09/20/jekyll-reading-time-without-plugins"/>
+   <updated>2018-09-20T00:00:00+00:00</updated>
+   <id>2nd.systems/2018/09/20/jekyll-reading-time-without-plugins</id>
    <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
 
 &lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
@@ -117,9 +117,9 @@ Option 2. Can you think of creative ways of taking advantage of the erroneous sy
  
  <entry>
    <title>Top plugins for Wordpress websites</title>
-   <link href="https://ratemypraxis.github.io/itp/2018/08/18/top-plugins-for-wordpress-websites"/>
-   <updated>2018-08-18T00:00:00+02:00</updated>
-   <id>https://ratemypraxis.github.io/2018/08/18/top-plugins-for-wordpress-websites</id>
+   <link href="2nd.systems/itp/2018/08/18/top-plugins-for-wordpress-websites"/>
+   <updated>2018-08-18T00:00:00+00:00</updated>
+   <id>2nd.systems/2018/08/18/top-plugins-for-wordpress-websites</id>
    <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
 
 &lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
@@ -134,9 +134,9 @@ Option 2. Can you think of creative ways of taking advantage of the erroneous sy
  
  <entry>
    <title>Disable Jekyll&apos;s default syntax highlighter Rouge</title>
-   <link href="https://ratemypraxis.github.io/itp/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge"/>
-   <updated>2018-02-05T00:00:00+01:00</updated>
-   <id>https://ratemypraxis.github.io/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge</id>
+   <link href="2nd.systems/itp/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge"/>
+   <updated>2018-02-05T00:00:00+00:00</updated>
+   <id>2nd.systems/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge</id>
    <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
 
 &lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
@@ -151,9 +151,9 @@ Option 2. Can you think of creative ways of taking advantage of the erroneous sy
  
  <entry>
    <title>Image caption in Jekyll</title>
-   <link href="https://ratemypraxis.github.io/itp/2018/02/03/image-captions-in-jekyll"/>
-   <updated>2018-02-03T00:00:00+01:00</updated>
-   <id>https://ratemypraxis.github.io/2018/02/03/image-captions-in-jekyll</id>
+   <link href="2nd.systems/itp/2018/02/03/image-captions-in-jekyll"/>
+   <updated>2018-02-03T00:00:00+00:00</updated>
+   <id>2nd.systems/2018/02/03/image-captions-in-jekyll</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1573481193569-c00872fb99fb?ixlib=rb-1.2.1&amp;amp;q=80&amp;amp;fm=jpg&amp;amp;crop=entropy&amp;amp;cs=tinysrgb&amp;amp;dl=k-mitch-hodge-yTVqCMI2yPY-unsplash.jpg&amp;amp;w=2400&quot; alt=&quot;&quot; /&gt;
 &lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/@kmitchhodge?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;K. Mitch Hodge&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/collections/8725460/sky?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -172,9 +172,9 @@ Option 2. Can you think of creative ways of taking advantage of the erroneous sy
  
  <entry>
    <title>Creating navigation menu in Jekyll</title>
-   <link href="https://ratemypraxis.github.io/itp/2017/01/03/creating-navigation-menu-in-jekyll"/>
-   <updated>2017-01-03T00:00:00+01:00</updated>
-   <id>https://ratemypraxis.github.io/2017/01/03/creating-navigation-menu-in-jekyll</id>
+   <link href="2nd.systems/itp/2017/01/03/creating-navigation-menu-in-jekyll"/>
+   <updated>2017-01-03T00:00:00+00:00</updated>
+   <id>2nd.systems/2017/01/03/creating-navigation-menu-in-jekyll</id>
    <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
 
 &lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
@@ -189,9 +189,9 @@ Option 2. Can you think of creative ways of taking advantage of the erroneous sy
  
  <entry>
    <title>CSS hacks you may not know</title>
-   <link href="https://ratemypraxis.github.io/itp/2014/05/12/css-hacks-you-may-not-know"/>
-   <updated>2014-05-12T00:00:00+02:00</updated>
-   <id>https://ratemypraxis.github.io/2014/05/12/css-hacks-you-may-not-know</id>
+   <link href="2nd.systems/itp/2014/05/12/css-hacks-you-may-not-know"/>
+   <updated>2014-05-12T00:00:00+00:00</updated>
+   <id>2nd.systems/2014/05/12/css-hacks-you-may-not-know</id>
    <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
 
 &lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;

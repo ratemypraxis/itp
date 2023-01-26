@@ -1,15 +1,15 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "itp blog",
-    "home_page_url": "https://ratemypraxis.github.io/itp/",
-    "feed_url": "https://ratemypraxis.github.io/itp/feed.json",
-    "description": "my ITP course progress blog",
-    "icon": "https://ratemypraxis.github.io/itp/apple-touch-icon.png",
-    "favicon": "https://ratemypraxis.github.io/itp/favicon.ico",
+    "home_page_url": "2nd.systems/itp/",
+    "feed_url": "2nd.systems/itp/feed.json",
+    "description": "sim's ITP course progress blog",
+    "icon": "2nd.systems/itp/apple-touch-icon.png",
+    "favicon": "2nd.systems/itp/favicon.ico",
     "expired": false,
     
     "author":  {
-        "name": "Sim / Sam Hafferty",
+        "name": "Sim",
         "url": null,
         "avatar": null
     },
@@ -17,22 +17,22 @@
 "items": [
     
         {
-            "id": "https://ratemypraxis.github.io/itp/2023/01/26/small-box",
+            "id": "2nd.systems/itp/2023/01/26/small-box",
             "title": "Making a small box",
             "summary": null,
             "content_text": "**How I made my first little box**First I went ahead and selected a piece of wood to start from. I went with this long piece from the scrap bin, it might even be the same piece used in class for the demo.Next, after turning on the dust collecter thing, I went ahead and sanded all sides of the piece on one end.Then I measures the piece out and marked where I could cut it to make a perfect square.After that I cut it with the circular saw before taking it to the drill press where this occured.  I stop the drill press immediatley and just moved on because I though it had gone in enough. After cutting a bit of bit of wood off of the side off to make a lid using the belt saw I realized that the drill bit had not gone in deep enough to extent beyond where I cut the lid. So I decided to start all over again.I repeated everything above again (except the measuring and cutting to square moment). When I got to the drill press I was able to get a bit more progress, I think because I had adjusted the height and moved a little quicker but because their was no clamp the piece of wood stuck to the drill bit and spun around, I again stopped the drill press and just moved on to the belt saw where I cut the lid just right to have a hold from the press present on both pieces.I returned to the press to make use of one of those big bits from the drawer. Immediatley it was clear that without a clamp I was gonna get nowhere so I consulted the shop staff on duty who suggessted using the big bit in a hand drill with the table clamp. While this process took a bit more force and time it seemed to have a similar effect (although the hole is a little oval-like). I then tried inserting a screw with the hand dril but as always it got crooked so I undid it with a screwdriver and was able to put it in more straight using that tool. Lastly, I went a little silly and started to color over accent lines with a purple sharpie but the ink spread within the wood grains which I am not very happy with.   I had to leave town last minute to deal with a family situation but if I have time when I return I want to try decorating it with other materials and try to make another box using this piece of wood I cut from a bigger cylinder piece in the scrap bin.",
             "content_html": "<p>**How I made my first little box**</p><p>First I went ahead and selected a piece of wood to start from. I went with this long piece from the scrap bin, it might even be the same piece used in class for the demo.</p><p><img src=\"preBoxWood.png\" alt=\"rectangular piece of wood held by an arm wearing a colorful striped sweater.\" width=\"700\" height=\"744\" /></p><p><img src=\"https://raw.githubusercontent.com/ratemypraxis/itp/master/_posts/preBoxWood.png\" alt=\"\" /></p><p>Next, after turning on the dust collecter thing, I went ahead and sanded all sides of the piece on one end.</p><p>Then I measures the piece out and marked where I could cut it to make a perfect square.</p><p>After that I cut it with the circular saw before taking it to the drill press where this occured.</p><p><img src=\"issuewk1fab.png\" alt=\"A small square piece of wood stuck in a drill bit attached to a drill press.\" width=\"700\" height=\"744\" />  <img src=\"https://raw.githubusercontent.com/ratemypraxis/itp/master/_posts/issuewk1fab.png\" alt=\"\" /></p><p>I stop the drill press immediatley and just moved on because I though it had gone in enough. After cutting a bit of bit of wood off of the side off to make a lid using the belt saw I realized that the drill bit had not gone in deep enough to extent beyond where I cut the lid. So I decided to start all over again.</p><p>I repeated everything above again (except the measuring and cutting to square moment). When I got to the drill press I was able to get a bit more progress, I think because I had adjusted the height and moved a little quicker but because their was no clamp the piece of wood stuck to the drill bit and spun around, I again stopped the drill press and just moved on to the belt saw where I cut the lid just right to have a hold from the press present on both pieces.</p><p>I returned to the press to make use of one of those big bits from the drawer. Immediatley it was clear that without a clamp I was gonna get nowhere so I consulted the shop staff on duty who suggessted using the big bit in a hand drill with the table clamp. While this process took a bit more force and time it seemed to have a similar effect (although the hole is a little oval-like). I then tried inserting a screw with the hand dril but as always it got crooked so I undid it with a screwdriver and was able to put it in more straight using that tool. Lastly, I went a little silly and started to color over accent lines with a purple sharpie but the ink spread within the wood grains which I am not very happy with.</p><p><img src=\"box1closed.png\" alt=\"A small square piece of wood stuck in a drill bit attached to a drill press.\" width=\"700\" height=\"744\" /> <img src=\"box1open.png\" alt=\"A small square piece of wood stuck in a drill bit attached to a drill press.\" width=\"700\" height=\"744\" /> <img src=\"https://raw.githubusercontent.com/ratemypraxis/itp/master/_posts/box1closed.png\" alt=\"\" /> <img src=\"https://raw.githubusercontent.com/ratemypraxis/itp/master/_posts/box1open.png\" alt=\"\" /></p><p>I had to leave town last minute to deal with a family situation but if I have time when I return I want to try decorating it with other materials and try to make another box using this piece of wood I cut from a bigger cylinder piece in the scrap bin.</p>",
-            "url": "https://ratemypraxis.github.io/itp/2023/01/26/small-box",
+            "url": "2nd.systems/itp/2023/01/26/small-box",
             
             
             
             
             
-            "date_published": "2023-01-26T00:00:00+01:00",
-            "date_modified": "2023-01-26T00:00:00+01:00",
+            "date_published": "2023-01-26T00:00:00+00:00",
+            "date_modified": "2023-01-26T00:00:00+00:00",
             
                 "author":  {
-                "name": "Sim / Sam Hafferty",
+                "name": "Sim",
                 "url": null,
                 "avatar": null
                 }
@@ -41,22 +41,22 @@
         },
     
         {
-            "id": "https://ratemypraxis.github.io/itp/2023/01/25/what-is-the-live-web",
+            "id": "2nd.systems/itp/2023/01/25/what-is-the-live-web",
             "title": "What is the Live Web?",
             "summary": null,
             "content_text": "What is the Live Web?Homework: Write a blog post detailing the last “live” media you consumed. Answer these questions: What was it? Why did you consume it “live” or in real time? How was your relationship to the media or others affected through the “live” consumption of it? What was missing in your experience?Assignment: use html, javascript, css with media elements to make a self-portrait in any sense of the term. think about multiple media, interaction, time based interaction in the context of a webpage.",
             "content_html": "<p>What is the Live Web?</p><p>Homework: Write a blog post detailing the last “live” media you consumed. Answer these questions: What was it? Why did you consume it “live” or in real time? How was your relationship to the media or others affected through the “live” consumption of it? What was missing in your experience?</p><p>Assignment: use html, javascript, css with media elements to make a self-portrait in any sense of the term. think about multiple media, interaction, time based interaction in the context of a webpage.</p>",
-            "url": "https://ratemypraxis.github.io/itp/2023/01/25/what-is-the-live-web",
+            "url": "2nd.systems/itp/2023/01/25/what-is-the-live-web",
             
             
             
             
             
-            "date_published": "2023-01-25T00:00:00+01:00",
-            "date_modified": "2023-01-25T00:00:00+01:00",
+            "date_published": "2023-01-25T00:00:00+00:00",
+            "date_modified": "2023-01-25T00:00:00+00:00",
             
                 "author":  {
-                "name": "Sim / Sam Hafferty",
+                "name": "Sim",
                 "url": null,
                 "avatar": null
                 }
@@ -65,22 +65,22 @@
         },
     
         {
-            "id": "https://ratemypraxis.github.io/itp/2023/01/25/redesigning-interaction",
+            "id": "2nd.systems/itp/2023/01/25/redesigning-interaction",
             "title": "Redesigning Interaction",
             "summary": null,
             "content_text": "Due Week 2 (Blog post by 7pm on Monday, January 31)1 ObservationSpend some time in the bathrooms at 370 Jay to observe intangible interactions (automatic toilet flush system, faucet, towel dispenser…). I encourage you to analyze the interaction using Implicit Interaction Framework. If you want to read more about the framework, see Chapter 2 of The Design of Implicit Interactions (pw: intangible).Or, if you find a non-intangible interaction that you want to replace with intangible interaction, you can observe and research them instead.example of implicit interaction design frameworkAn example of an analysis using implicit interaction design framework2 ResearchHow the sensing system works.1) Take a closer look at the system for some time and play with it by trying different actions. What did you find out? What is the most common error of the system?2) Search relevant information online. Consider these questions: Which sensors are being use in the current systems using? How are they programmed? How are they embedded on the device? How do they decide when to activate (flushing, dispensing, making sound…)? 3 IdeationIf you have more time after observation and research, identify what the most common errors are in the system, and answer either of these questions. Feel free to make a simple sketch of your ideas. * Note that this is about ideation only and you’re not expected to make anything for this. The examples by previous students below show prototypes since the instruction was different at that time.Option 1. If you were to redesign it, how would you improve the system?    As an example, does the system give enough feedback for the intangible interaction? Would adding feedback indicator that shows the status of the system or interaction feedback be helpful? (e.g., LED indicator, alarm sound, voice…).    Michelle and Schuyler’s toilet doors can be another example.Option 2. Can you think of creative ways of taking advantage of the erroneous system? It can be a whimsical interaction that is totally useless.    In case you’re curious, some examples from past years’ students are (with a focus on toilet): Lu Lyu’s Kissing Frog, Name and Themis’ Gamble Flusher, Rae and Yiting’s Pooping Toilet",
             "content_html": "<p>Due Week 2 (Blog post by 7pm on Monday, January 31)</p><p>1 Observation</p><p>Spend some time in the bathrooms at 370 Jay to observe intangible interactions (automatic toilet flush system, faucet, towel dispenser…). I encourage you to analyze the interaction using Implicit Interaction Framework. If you want to read more about the framework, see Chapter 2 of The Design of Implicit Interactions (pw: intangible).</p><p>Or, if you find a non-intangible interaction that you want to replace with intangible interaction, you can observe and research them instead.example of implicit interaction design frameworkAn example of an analysis using implicit interaction design framework</p><p>2 Research</p><p>How the sensing system works.</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>1) Take a closer look at the system for some time and play with it by trying different actions. What did you find out? What is the most common error of the system?2) Search relevant information online. Consider these questions: Which sensors are being use in the current systems using? How are they programmed? How are they embedded on the device? How do they decide when to activate (flushing, dispensing, making sound…)? </code></pre></div></div><p>3 Ideation</p><p>If you have more time after observation and research, identify what the most common errors are in the system, and answer either of these questions. Feel free to make a simple sketch of your ideas. * Note that this is about ideation only and you’re not expected to make anything for this. The examples by previous students below show prototypes since the instruction was different at that time.</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>Option 1. If you were to redesign it, how would you improve the system?    As an example, does the system give enough feedback for the intangible interaction? Would adding feedback indicator that shows the status of the system or interaction feedback be helpful? (e.g., LED indicator, alarm sound, voice…).    Michelle and Schuyler’s toilet doors can be another example.Option 2. Can you think of creative ways of taking advantage of the erroneous system? It can be a whimsical interaction that is totally useless.    In case you’re curious, some examples from past years’ students are (with a focus on toilet): Lu Lyu’s Kissing Frog, Name and Themis’ Gamble Flusher, Rae and Yiting’s Pooping Toilet</code></pre></div></div>",
-            "url": "https://ratemypraxis.github.io/itp/2023/01/25/redesigning-interaction",
+            "url": "2nd.systems/itp/2023/01/25/redesigning-interaction",
             
             
             
             
             
-            "date_published": "2023-01-25T00:00:00+01:00",
-            "date_modified": "2023-01-25T00:00:00+01:00",
+            "date_published": "2023-01-25T00:00:00+00:00",
+            "date_modified": "2023-01-25T00:00:00+00:00",
             
                 "author":  {
-                "name": "Sim / Sam Hafferty",
+                "name": "Sim",
                 "url": null,
                 "avatar": null
                 }
@@ -89,22 +89,22 @@
         },
     
         {
-            "id": "https://ratemypraxis.github.io/itp/2018/09/20/jekyll-reading-time-without-plugins",
+            "id": "2nd.systems/itp/2018/09/20/jekyll-reading-time-without-plugins",
             "title": "Jekyll reading time without plugins",
             "summary": "The reading time indicator for your website",
             "content_text": "Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.",
             "content_html": "<p>Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.</p><p>Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.</p><p>VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.</p><p>Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.</p><p>Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.</p>",
-            "url": "https://ratemypraxis.github.io/itp/2018/09/20/jekyll-reading-time-without-plugins",
+            "url": "2nd.systems/itp/2018/09/20/jekyll-reading-time-without-plugins",
             
             
             
             "tags": ["jekyll","coding"],
             
-            "date_published": "2018-09-20T00:00:00+02:00",
-            "date_modified": "2018-09-20T00:00:00+02:00",
+            "date_published": "2018-09-20T00:00:00+00:00",
+            "date_modified": "2018-09-20T00:00:00+00:00",
             
                 "author":  {
-                "name": "Sim / Sam Hafferty",
+                "name": "Sim",
                 "url": null,
                 "avatar": null
                 }
@@ -113,22 +113,22 @@
         },
     
         {
-            "id": "https://ratemypraxis.github.io/itp/2018/08/18/top-plugins-for-wordpress-websites",
+            "id": "2nd.systems/itp/2018/08/18/top-plugins-for-wordpress-websites",
             "title": "Top plugins for Wordpress websites",
             "summary": "Wordpress plugins that I deem as a necessity for everyone",
             "content_text": "Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.",
             "content_html": "<p>Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.</p><p>Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.</p><p>VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.</p><p>Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.</p><p>Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.</p>",
-            "url": "https://ratemypraxis.github.io/itp/2018/08/18/top-plugins-for-wordpress-websites",
+            "url": "2nd.systems/itp/2018/08/18/top-plugins-for-wordpress-websites",
             
             
             
             "tags": ["coding","wordpress"],
             
-            "date_published": "2018-08-18T00:00:00+02:00",
-            "date_modified": "2018-08-18T00:00:00+02:00",
+            "date_published": "2018-08-18T00:00:00+00:00",
+            "date_modified": "2018-08-18T00:00:00+00:00",
             
                 "author":  {
-                "name": "Sim / Sam Hafferty",
+                "name": "Sim",
                 "url": null,
                 "avatar": null
                 }
@@ -137,22 +137,22 @@
         },
     
         {
-            "id": "https://ratemypraxis.github.io/itp/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge",
+            "id": "2nd.systems/itp/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge",
             "title": "Disable Jekyll's default syntax highlighter Rouge",
             "summary": "How to disable Jekyll's default syntax highlighter",
             "content_text": "Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.",
             "content_html": "<p>Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.</p><p>Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.</p><p>VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.</p><p>Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.</p><p>Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.</p>",
-            "url": "https://ratemypraxis.github.io/itp/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge",
+            "url": "2nd.systems/itp/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge",
             
             
             
             "tags": ["coding","jekyll"],
             
-            "date_published": "2018-02-05T00:00:00+01:00",
-            "date_modified": "2018-02-05T00:00:00+01:00",
+            "date_published": "2018-02-05T00:00:00+00:00",
+            "date_modified": "2018-02-05T00:00:00+00:00",
             
                 "author":  {
-                "name": "Sim / Sam Hafferty",
+                "name": "Sim",
                 "url": null,
                 "avatar": null
                 }
@@ -161,22 +161,22 @@
         },
     
         {
-            "id": "https://ratemypraxis.github.io/itp/2018/02/03/image-captions-in-jekyll",
+            "id": "2nd.systems/itp/2018/02/03/image-captions-in-jekyll",
             "title": "Image caption in Jekyll",
             "summary": "Using an image caption in Jekyll",
             "content_text": "Photo by K. Mitch Hodge on UnsplashLorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.",
             "content_html": "<p><img src=\"https://images.unsplash.com/photo-1573481193569-c00872fb99fb?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;dl=k-mitch-hodge-yTVqCMI2yPY-unsplash.jpg&amp;w=2400\" alt=\"\" /><em>Photo by <a href=\"https://unsplash.com/@kmitchhodge?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">K. Mitch Hodge</a> on <a href=\"https://unsplash.com/collections/8725460/sky?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></em></p><p>Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.</p><p>Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.</p><p>VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.</p><p>Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.</p><p>Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.</p>",
-            "url": "https://ratemypraxis.github.io/itp/2018/02/03/image-captions-in-jekyll",
+            "url": "2nd.systems/itp/2018/02/03/image-captions-in-jekyll",
             
             
             
             "tags": ["jekyll","coding"],
             
-            "date_published": "2018-02-03T00:00:00+01:00",
-            "date_modified": "2018-02-03T00:00:00+01:00",
+            "date_published": "2018-02-03T00:00:00+00:00",
+            "date_modified": "2018-02-03T00:00:00+00:00",
             
                 "author":  {
-                "name": "Sim / Sam Hafferty",
+                "name": "Sim",
                 "url": null,
                 "avatar": null
                 }
@@ -185,22 +185,22 @@
         },
     
         {
-            "id": "https://ratemypraxis.github.io/itp/2017/01/03/creating-navigation-menu-in-jekyll",
+            "id": "2nd.systems/itp/2017/01/03/creating-navigation-menu-in-jekyll",
             "title": "Creating navigation menu in Jekyll",
             "summary": "Using data folder to build Jekyll navigation",
             "content_text": "Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.",
             "content_html": "<p>Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.</p><p>Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.</p><p>VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.</p><p>Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.</p><p>Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.</p>",
-            "url": "https://ratemypraxis.github.io/itp/2017/01/03/creating-navigation-menu-in-jekyll",
+            "url": "2nd.systems/itp/2017/01/03/creating-navigation-menu-in-jekyll",
             
             
             
             "tags": ["coding","jekyll"],
             
-            "date_published": "2017-01-03T00:00:00+01:00",
-            "date_modified": "2017-01-03T00:00:00+01:00",
+            "date_published": "2017-01-03T00:00:00+00:00",
+            "date_modified": "2017-01-03T00:00:00+00:00",
             
                 "author":  {
-                "name": "Sim / Sam Hafferty",
+                "name": "Sim",
                 "url": null,
                 "avatar": null
                 }
@@ -209,22 +209,22 @@
         },
     
         {
-            "id": "https://ratemypraxis.github.io/itp/2014/05/12/css-hacks-you-may-not-know",
+            "id": "2nd.systems/itp/2014/05/12/css-hacks-you-may-not-know",
             "title": "CSS hacks you may not know",
             "summary": "This is a collection of short CSS snippets I thought might be useful for beginners",
             "content_text": "Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.int main (){\tint hello = 3;\tchar world = 'w';}Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.import java.util.Scanner;  // Import the Scanner classclass Main {  public static void main(String[] args) {    Scanner myObj = new Scanner(System.in);  // Create a Scanner object    System.out.println(\"Enter username\");    String userName = myObj.nextLine();  // Read user input    System.out.println(\"Username is: \" + userName);  // Output user input  }}Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.",
             "content_html": "<p>Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.</p><p>Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.</p><div class=\"language-c highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code><span class=\"kt\">int</span> <span class=\"nf\">main</span> <span class=\"p\">(){</span>\t<span class=\"kt\">int</span> <span class=\"n\">hello</span> <span class=\"o\">=</span> <span class=\"mi\">3</span><span class=\"p\">;</span>\t<span class=\"kt\">char</span> <span class=\"n\">world</span> <span class=\"o\">=</span> <span class=\"sc\">'w'</span><span class=\"p\">;</span><span class=\"p\">}</span></code></pre></div></div><p>Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.</p><div class=\"language-java highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code><span class=\"kn\">import</span> <span class=\"nn\">java.util.Scanner</span><span class=\"o\">;</span>  <span class=\"c1\">// Import the Scanner class</span><span class=\"kd\">class</span> <span class=\"nc\">Main</span> <span class=\"o\">{</span>  <span class=\"kd\">public</span> <span class=\"kd\">static</span> <span class=\"kt\">void</span> <span class=\"nf\">main</span><span class=\"o\">(</span><span class=\"nc\">String</span><span class=\"o\">[]</span> <span class=\"n\">args</span><span class=\"o\">)</span> <span class=\"o\">{</span>    <span class=\"nc\">Scanner</span> <span class=\"n\">myObj</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"nc\">Scanner</span><span class=\"o\">(</span><span class=\"nc\">System</span><span class=\"o\">.</span><span class=\"na\">in</span><span class=\"o\">);</span>  <span class=\"c1\">// Create a Scanner object</span>    <span class=\"nc\">System</span><span class=\"o\">.</span><span class=\"na\">out</span><span class=\"o\">.</span><span class=\"na\">println</span><span class=\"o\">(</span><span class=\"s\">\"Enter username\"</span><span class=\"o\">);</span>    <span class=\"nc\">String</span> <span class=\"n\">userName</span> <span class=\"o\">=</span> <span class=\"n\">myObj</span><span class=\"o\">.</span><span class=\"na\">nextLine</span><span class=\"o\">();</span>  <span class=\"c1\">// Read user input</span>    <span class=\"nc\">System</span><span class=\"o\">.</span><span class=\"na\">out</span><span class=\"o\">.</span><span class=\"na\">println</span><span class=\"o\">(</span><span class=\"s\">\"Username is: \"</span> <span class=\"o\">+</span> <span class=\"n\">userName</span><span class=\"o\">);</span>  <span class=\"c1\">// Output user input</span>  <span class=\"o\">}</span><span class=\"o\">}</span></code></pre></div></div><p>Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.</p>",
-            "url": "https://ratemypraxis.github.io/itp/2014/05/12/css-hacks-you-may-not-know",
+            "url": "2nd.systems/itp/2014/05/12/css-hacks-you-may-not-know",
             
             
             
             "tags": ["css","coding"],
             
-            "date_published": "2014-05-12T00:00:00+02:00",
-            "date_modified": "2014-05-12T00:00:00+02:00",
+            "date_published": "2014-05-12T00:00:00+00:00",
+            "date_modified": "2014-05-12T00:00:00+00:00",
             
                 "author":  {
-                "name": "Sim / Sam Hafferty",
+                "name": "Sim",
                 "url": null,
                 "avatar": null
                 }
