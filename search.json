@@ -25,60 +25,6 @@
       "tags"     : "intangible-interaction",
       "url"      : "/itp/2023/01/25/redesigning-interaction",
       "date"     : "2023-01-25 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Jekyll reading time without plugins",
-      "description" : "The reading time indicator for your website",
-      "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/itp/2018/09/20/jekyll-reading-time-without-plugins",
-      "date"     : "2018-09-20 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Top plugins for Wordpress websites",
-      "description" : "Wordpress plugins that I deem as a necessity for everyone",
-      "category" : "",
-      "tags"     : "coding, wordpress",
-      "url"      : "/itp/2018/08/18/top-plugins-for-wordpress-websites",
-      "date"     : "2018-08-18 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Disable Jekyll&#39;s default syntax highlighter Rouge",
-      "description" : "How to disable Jekyll&#39;s default syntax highlighter",
-      "category" : "",
-      "tags"     : "coding, jekyll",
-      "url"      : "/itp/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge",
-      "date"     : "2018-02-05 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Image caption in Jekyll",
-      "description" : "Using an image caption in Jekyll",
-      "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/itp/2018/02/03/image-captions-in-jekyll",
-      "date"     : "2018-02-03 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Creating navigation menu in Jekyll",
-      "description" : "Using data folder to build Jekyll navigation",
-      "category" : "",
-      "tags"     : "coding, jekyll",
-      "url"      : "/itp/2017/01/03/creating-navigation-menu-in-jekyll",
-      "date"     : "2017-01-03 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "CSS hacks you may not know",
-      "description" : "This is a collection of short CSS snippets I thought might be useful for beginners",
-      "category" : "",
-      "tags"     : "css, coding",
-      "url"      : "/itp/2014/05/12/css-hacks-you-may-not-know",
-      "date"     : "2014-05-12 00:00:00 +0000"
     } 
   
 ]
