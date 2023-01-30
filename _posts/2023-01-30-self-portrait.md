@@ -9,6 +9,8 @@ Self-Portrait made using HTML, CSS and javaScript
 
 Run my piece locally by downloading and unzipping this <a href="selfPortrait.zip">compressed folder</a> then doubl-click the index.html file.
 
+ ![rectangular piece of wood held by an arm wearing a colorful striped sweater.](https://raw.githubusercontent.com/ratemypraxis/itp/master/_posts/selfportrait.png)
+ 
 Code:
 ```html
 <!DOCTYPE html>
