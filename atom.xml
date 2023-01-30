@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-01-30T17:20:21+00:00</updated>
+ <updated>2023-01-30T17:23:07+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -21,7 +21,7 @@
 
 &lt;p&gt;Run my piece locally by downloading and unzipping this &lt;a href=&quot;selfPortrait.zip&quot;&gt;compressed folder&lt;/a&gt; then doubl-click the index.html file.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/_posts/selfportrait.png&quot; alt=&quot;rectangular piece of wood held by an arm wearing a colorful striped sweater.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/_posts/selfportrait.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Code:&lt;/p&gt;
 &lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
