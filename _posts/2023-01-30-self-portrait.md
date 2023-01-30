@@ -7,7 +7,7 @@ tags: live-web
 ---
 Self-Portrait made using HTML, CSS and javaScript
 
-Run my piece locally by downloading and unzipping this <a href="selfPortrait.zip">compressed folder</a> then doubl-click the index.html file.
+Run my piece locally by downloading and unzipping this <a href="https://drive.google.com/file/d/1tCaqOv4TRP0DaRWbf1PL9lovUjwQU2lR/view?usp=share_link">compressed folder</a> then doubl-click the index.html file.
 
  ![](https://raw.githubusercontent.com/ratemypraxis/itp/master/_posts/selfportrait.PNG)
  
