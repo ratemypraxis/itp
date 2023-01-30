@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-01-30T17:32:18+00:00</updated>
+ <updated>2023-01-30T19:42:33+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -19,9 +19,9 @@
    <id>/2023/01/30/self-portrait</id>
    <content type="html">&lt;p&gt;Self-Portrait made using HTML, CSS and javaScript&lt;/p&gt;
 
-&lt;p&gt;Run my piece locally by downloading and unzipping this &lt;a href=&quot;https://drive.google.com/file/d/1tCaqOv4TRP0DaRWbf1PL9lovUjwQU2lR/view?usp=share_link&quot;&gt;compressed folder&lt;/a&gt; then doubl-click the index.html file.&lt;/p&gt;
+&lt;p&gt;You can view and interact with my self-portrait at the &lt;a href=&quot;http://147.182.218.244/selfPortrait.html&quot;&gt;page linked here.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/_posts/selfportrait.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/_posts/selfportrait.PNG&quot; alt=&quot;screenshot of a computer screen&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Code:&lt;/p&gt;
 &lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
