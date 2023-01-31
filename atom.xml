@@ -4,13 +4,82 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-01-31T21:36:17+00:00</updated>
+ <updated>2023-01-31T21:57:00+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
    <email>sh4712@nyu.edu</email>
  </author>
 
+ 
+ <entry>
+   <title></title>
+   <link href="/itp/2023/01/31/2023-01-31-peopleguidetoai"/>
+   <updated>2023-01-31T21:57:00+00:00</updated>
+   <id>/2023/01/31/2023-01-31-peopleGuideToAI</id>
+   <content type="html">&lt;h1&gt; Responding to A People&apos;s Guide to AI&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;When you hear the words “Artificial Intelligence”, what are the first four things that come to your mind? (p.11)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Data&lt;/li&gt;
+  &lt;li&gt;Repetition&lt;/li&gt;
+  &lt;li&gt;Monitoring&lt;/li&gt;
+  &lt;li&gt;Predictive&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Answer the questions from the “Everyday AI Activity” on pages 23-28 of the A People’s Guide to AI.&lt;/em&gt;&lt;/strong&gt;
+&lt;strong&gt;Think about the devices and/or digital services you use daily.
+Write below a list of the top three that are present in your life.&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Smartphone&lt;/li&gt;
+  &lt;li&gt;Laptop&lt;/li&gt;
+  &lt;li&gt;E-mail&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Have these things ever surprised you by guessing something about
+you that you didn’t expect?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes, after checking which advertiser lists I belonged to on my social media and email apps on my phone I was shocked to find myself on a ton of lists that where both widly off and oddly specific in identifying my practices, interests and background.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Take a moment to see if you can identify what function AI plays
+in the following list.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;email inbox:&lt;/strong&gt; AI filters spam or promotional messages in to respective folders.
+&lt;strong&gt;check depositing:&lt;/strong&gt; maybe AI is used to recognize and process text in images or scans of check deposits.
+&lt;strong&gt;texting and mobile keyboards:&lt;/strong&gt; AI predicts words you may be likely to type next or have begun typing.
+&lt;strong&gt;netflix:&lt;/strong&gt; AI predicts which shows or movies you may be likely to want to watch based on previous media consumed.
+&lt;strong&gt;google (search function):&lt;/strong&gt; AI predicts the rest of a term you have begun typing based on inputted characters.
+&lt;strong&gt;social media platforms:&lt;/strong&gt; AI predicts which advertisers to show you based on content you consume as well as which posts you might want to see first based on previous activity.
+&lt;strong&gt;automated message systems:&lt;/strong&gt; Not sure.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;What do we gain by having AI in our everyday lives?&lt;/em&gt;&lt;/strong&gt;
+AI can allows us to process and pose assumptions based on large datasets much quicker than ever before.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;What do we lose by having AI in our daily lives?&lt;/em&gt;&lt;/strong&gt;
+AI grants corporations greater control and manipulation over our digital data and content we are served.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Use the prompts below to help design an AI system.&lt;/em&gt;&lt;/strong&gt;
+&lt;strong&gt;What problems are you trying to address?&lt;/strong&gt;
+Identifying corporations which utilize prison labor.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How can AI help solve this issue?&lt;/strong&gt;
+By allowing one to sort through long business and legal documents from public corporations and identify reference to prison labor contracts much quicker.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What role will humans have in addressing this issue?&lt;/strong&gt;
+Humans can address this issue by reviewing the results served up by and AI and discarding false or inconclusive results.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What data do you need to create an AI to help you address your issue?&lt;/strong&gt;
+Legal and business documents from publically traded corporations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How will you responibly gather data in a way that respects individuals’ privacy and consent?&lt;/strong&gt;
+By pulling from an already public dataset which has the sole purpose of reviewing data about corporations not individuals.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Draw your system. This can look like a flow chart, or be a drawing of
+what you think the system will look like and where it will live. It’s up
+to you! Try to be creative&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Redesigning Interaction [Intangible Interaction]</title>
@@ -34,25 +103,6 @@ Sim Opinion: I’ve watched the use of systems like Alexa and Siri provide treme
 &lt;br /&gt;&lt;br /&gt;
 Additionally, the unreliability of the voice recognition technology with users of various dialects makes me question why the eagerness to constantly push and expand these products into the market. Detailed in Ruha Benjamin’s Race After Technology, a former Apple employee working on improving voice assistant technology for various dialects of English questioned the exclusion of African American english, to which a supervisor responded “Well, Apple products are for the premium market.” (Chapter 4: Why Now?, Page 32). In addition to this documented willful shortcoming of Apple to develop for Black Americans who speak AAVE, I’ve witnessed secondhand the extreme faultiness of Alexa when used by my grandmother who speaks English as a second language from a Spanish speaking background. Releasing widespread access to a technology that has the power to control so many different processes like sending messages or making purchases, knowing that it will be faulty for large percentages of the u.s. (and thus market) population is quite irresponsible in my opinion with the potential to do more harm than help for some communities.&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>What is the Live Web? [Live Web]</title>
-   <link href="/itp/2023/01/31/peopleguidetoai"/>
-   <updated>2023-01-31T00:00:00+00:00</updated>
-   <id>/2023/01/31/peopleGuideToAI</id>
-   <content type="html">&lt;h1&gt; Responding to A People&apos;s Guide to AI&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;When you hear the words “Artificial Intelligence”, what are the first four things that come to your mind? (p.11)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Data&lt;/li&gt;
-  &lt;li&gt;Repetition&lt;/li&gt;
-  &lt;li&gt;Monitoring&lt;/li&gt;
-  &lt;li&gt;Predictive&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Answer the questions from the “Everyday AI Activity” on pages 23-28 of the A People’s Guide to AI.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 </content>
  </entry>
  
