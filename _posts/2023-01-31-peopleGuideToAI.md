@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wk 1: People's Guide to AI [ML for the Web]
+title: Responding to A People's Guide to AI [ML for the Web]
 description: 
 summary: 
 tags: ml-for-web
