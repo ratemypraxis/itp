@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-01-31T11:54:12+00:00</updated>
+ <updated>2023-01-31T11:55:09+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -20,6 +20,8 @@
    <content type="html">&lt;h1&gt;The Intangible Interaction of Popular Voice Assistants (Siri &amp;amp; Alexa)&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Research and writing done in collaboration with Bruce Arthur whose blog you can find &lt;a href=&quot;https://themagifrequency.notion.site/themagifrequency/INTx2-64e0121c29bd42a78b4f2a9e6be6ca19&quot;&gt;linked here&lt;/a&gt;.&lt;/em&gt;&lt;/strong&gt;
 &lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/_posts/voiceControlInteraction.png&quot; alt=&quot;a diagram featuring a stick figure digital icon drawing of a person speaking to a smartphone surrounded by digital text seperated in 4 corners by lines and arrows&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
 Siri works through a combination of AI and language processing. Spoken phrases are converted into data files, and sent to apple servers where they can be decoded in language processing and responded to in kind. Settings can be adjusted to always be listening so that the interaction can be triggered remotely through the phrase “hey Siri”. Similarly, Alexa makes use of Automatic Speech Recognition which converts speech audio into text files that are then processed using NLP (natural language processing) to understand a user request before responding with a process or simulated speech (Source: &lt;a href=&quot;https://nymag.com/intelligencer/smarthome/make-me-smarter-voice-speech-recognition-alexa-siri-cortana-google.html](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/asr)&quot;&gt;Amazon&lt;/a&gt;).&lt;br /&gt;
 &lt;br /&gt;&lt;br /&gt;
 Siri works through a combination of AI and language processing. Spoken phrases are converted into data files, and sent to apple servers where they can be decoded in language processing and responded to in kind. Settings can be adjusted to always be listening so that the interaction can be triggered remotely through the phrase “hey Siri”. Similarly, Alexa makes use of Automatic Speech Recognition which converts speech audio into text files that are then processed using NLP (natural language processing) to understand a user request before responding with a process or simulated speech (Source: &lt;a href=&quot;https://nymag.com/intelligencer/smarthome/make-me-smarter-voice-speech-recognition-alexa-siri-cortana-google.html](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/asr)&quot;&gt;Amazon&lt;/a&gt;).&lt;br /&gt;
@@ -31,8 +33,7 @@ Bruce Opinion: Personally I have no problem with the system of siri, but I do fi
 Sim Opinion: I’ve watched the use of systems like Alexa and Siri provide tremendous support to folks in my family with limited mobility and many responsibilities and I think that the system of voice control has great potential to bring a little bit of aid to many folks in similar situations. However, as discussed by Bruce, the question of privacy and security of speech documents is quite concerning, especially when this technology is developed by large corporations with known prior violations of privacy and data. In the households in my family that include children who make use of Alexa, I am glad that they are able to make use of the tools for self-learning and to connect with family and friends yet I worry greatly about their future in terms of their data and their right to have control of that. &lt;br /&gt;
 &lt;br /&gt;&lt;br /&gt;
 Additionally, the unreliability of the voice recognition technology with users of various dialects makes me question why the eagerness to constantly push and expand these products into the market. Detailed in Ruha Benjamin’s Race After Technology, a former Apple employee working on improving voice assistant technology for various dialects of English questioned the exclusion of African American english, to which a supervisor responded “Well, Apple products are for the premium market.” (Chapter 4: Why Now?, Page 32). In addition to this documented willful shortcoming of Apple to develop for Black Americans who speak AAVE, I’ve witnessed secondhand the extreme faultiness of Alexa when used by my grandmother who speaks English as a second language from a Spanish speaking background. Releasing widespread access to a technology that has the power to control so many different processes like sending messages or making purchases, knowing that it will be faulty for large percentages of the u.s. (and thus market) population is quite irresponsible in my opinion with the potential to do more harm than help for some communities.&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/_posts/voiceControlInteraction.png&quot; alt=&quot;a diagram featuring a stick figure digital icon drawing of a person speaking to a smartphone surrounded by digital text seperated in 4 corners by lines and arrows&quot; /&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;/p&gt;
 </content>
  </entry>
  
