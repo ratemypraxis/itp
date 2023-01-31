@@ -9,9 +9,6 @@ Self-Portrait made using HTML, CSS and javaScript
 
 You can view and interact with my self-portrait at the <a href ="https://www.2nd.systems/itp/projects/webPortrait">page linked here.</a>
 
-<iframe src="https://www.2nd.systems/itp/projects/webPortrait.html" title="Sim's Web Self-Portrait" width="100%" height="500px">
-</iframe>
-
  ![screenshot of a computer screen](https://raw.githubusercontent.com/ratemypraxis/itp/master/_posts/selfportrait.PNG)
  
 Code:
