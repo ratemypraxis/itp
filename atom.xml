@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-01-31T12:14:49+00:00</updated>
+ <updated>2023-01-31T12:20:17+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -44,7 +44,10 @@ Additionally, the unreliability of the voice recognition technology with users o
    <id>/2023/01/30/self-portrait</id>
    <content type="html">&lt;p&gt;Self-Portrait made using HTML, CSS and javaScript&lt;/p&gt;
 
-&lt;p&gt;You can view and interact with my self-portrait at the &lt;a href=&quot;http://147.182.218.244/selfPortrait.html&quot;&gt;page linked here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can view and interact with my self-portrait at the &lt;a href=&quot;https://www.2nd.systems/itp/projects/webPortrait&quot;&gt;page linked here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.2nd.systems/itp/projects/webPortrait.html&quot; title=&quot;Sim&apos;s Web Self-Portrait&quot; width=&quot;100%&quot; height=&quot;500px&quot;&gt;
+&lt;/iframe&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/_posts/selfportrait.PNG&quot; alt=&quot;screenshot of a computer screen&quot; /&gt;&lt;/p&gt;
 
