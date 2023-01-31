@@ -3,7 +3,7 @@ layout: post
 title: What is the Live Web? [Live Web]
 description: 
 summary: 
-tags: ML-for-Web
+tags: ml-for-web
 ---
 
 <h1> Responding to A People's Guide to AI</h1>
