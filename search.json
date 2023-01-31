@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Redesigning Interaction [Intangible Interaction]",
+      "description" : "",
+      "category" : "",
+      "tags"     : "intangible-interaction",
+      "url"      : "/itp/2023/01/31/redesigning-interaction",
+      "date"     : "2023-01-31 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "Web Self-Portrait [Live Web]",
       "description" : "",
       "category" : "",
@@ -24,15 +33,6 @@
       "category" : "",
       "tags"     : "live-web",
       "url"      : "/itp/2023/01/25/what-is-the-live-web",
-      "date"     : "2023-01-25 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Redesigning Interaction [Intangible Interaction]",
-      "description" : "",
-      "category" : "",
-      "tags"     : "intangible-interaction",
-      "url"      : "/itp/2023/01/25/redesigning-interaction",
       "date"     : "2023-01-25 00:00:00 +0000"
     } 
   
