@@ -9,9 +9,9 @@ minute: 1
 ---
 
 <h1>The Intangible Interaction of Popular Voice Assistants (Siri & Alexa)</h1>
-***Research and writing done in collaboration with Bruce Arthur whose blog you can find <a href="https://themagifrequency.notion.site/themagifrequency/INTx2-64e0121c29bd42a78b4f2a9e6be6ca19">linked here</a>.***
-<br>  
 ![a diagram featuring a stick figure digital icon drawing of a person speaking to a smartphone surrounded by digital text seperated in 4 corners by lines and arrows](https://raw.githubusercontent.com/ratemypraxis/itp/master/_posts/voiceControlInteraction.png)  
+<br>
+***Research and writing done in collaboration with Bruce Arthur whose blog you can find <a href="https://themagifrequency.notion.site/themagifrequency/INTx2-64e0121c29bd42a78b4f2a9e6be6ca19">linked here</a>.***
 <br>  
 Siri works through a combination of AI and language processing. Spoken phrases are converted into data files, and sent to apple servers where they can be decoded in language processing and responded to in kind. Settings can be adjusted to always be listening so that the interaction can be triggered remotely through the phrase “hey Siri”. Similarly, Alexa makes use of Automatic Speech Recognition which converts speech audio into text files that are then processed using NLP (natural language processing) to understand a user request before responding with a process or simulated speech (Source: <a href="https://nymag.com/intelligencer/smarthome/make-me-smarter-voice-speech-recognition-alexa-siri-cortana-google.html](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/asr)">Amazon</a>).  
 <br>  
