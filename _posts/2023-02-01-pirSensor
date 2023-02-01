@@ -1,0 +1,17 @@
+---
+layout: post
+title: Proximity Sensor Research [Intangible Interaction]
+description: 
+summary: 
+tags: intangible-interaction 
+---
+
+Find out the sensing angle, mix/max distance, and strengths/weakness. 
+Tangibility, applications (with examples), weaknesses.
+We’ll “map” these sensors together on a graph in the next class so have these information handy!
+Research existing applications of the sensor and/or come up with ideas inspired by the sensor(either its use or how it works).
+--check data sheet--
+
+<a href="https://cdn-shop.adafruit.com/product-files/5578/C17724.pdf">Data Sheet</a>
+
+https://www.instructables.com/PIR-Motion-Sensor-Tutorial/
