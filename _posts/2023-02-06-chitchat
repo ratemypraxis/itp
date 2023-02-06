@@ -1,0 +1,203 @@
+---
+layout: post
+title: Chat App with Node, Express and Sockets [Live Web]
+description: 
+summary: 
+tags: live-web 
+---
+Chat application with username support in development
+
+You can view access and test the chat space (when I am running the server) at the <a href ="http://204.48.20.197/">page linked here.</a>
+
+
+ 
+Code:
+HTML:
+```html
+<html>
+	<head>
+		<title>
+			Chit-Chat
+		</title>
+		<style>
+            #chat{
+                background-color: #aaeed4;
+				border-width:1px; 
+				border-style:solid; 
+				border-color:#527f6e; 
+				border-radius: 25px;
+				padding: 15px;
+				justify-content: center;
+				display: flex;
+				font-size: 20px;
+
+			}
+
+			#login{
+                background-color: #aadaee;
+				border-width:1px; 
+				border-style:solid; 
+				border-color:#527f6e; 
+				border-radius: 25px;
+				padding: 15px;
+				justify-content: center;
+				display: flex;
+				font-size: 20px;
+			}
+
+			#messages{
+                background-color: rgb(170, 202, 238);
+				/* border-width:1px; 
+				border-style:solid; 
+				border-color:#1100ff; 
+				border-radius: 25px; */
+				/* padding: 1px;  */
+				text-align: center;
+				justify-content: center;
+				display: flex;
+				font-size: 20px;
+
+            }
+
+			#chatbank{
+                background-color: rgb(238, 170, 223);
+				/* border-width:1px; 
+				border-style:solid; 
+				border-color:#1100ff; 
+				border-radius: 25px; */
+				/* padding: 1px;  */
+				text-align: center;
+				justify-content: center;
+				display: flex;
+            }
+
+
+        </style>
+		<script type="text/javascript" src="/socket.io/socket.io.js"></script>
+		<script type="text/javascript">
+		
+			var socket = io.connect();
+			
+			socket.on('connect', function() {
+				console.log("Connected");
+			});
+
+			// Receive from any event \
+			socket.on('chatmessage', function (data) {
+				console.log(data);
+				document.getElementById('messages').innerHTML = data + document.getElementById('messages').innerHTML;
+			});
+			
+			var sendmessage = function(message) {
+				console.log("chatmessage: " + message);
+				socket.emit('chatmessage', '<br>' + socket.id + " said " + message + '<br>');
+				//socket.emit('newuser', '<br>' + socket.id + 'has entered the chat');
+
+			};
+
+			// socket.on('username', function (data) {
+			// 	console.log(data);
+			// 	//document.getElementById('named').innerHTML = data + document.getElementById('named').innerHTML;
+			// });
+
+			var setname = function(data) {
+				console.log("username: " + data);
+				socket.emit('named', '<br>' + " said " + data + '<br>');
+				//socket.emit('newuser', '<br>' + socket.id + 'has entered the chat');
+
+			};
+
+	
+		</script>	
+
+
+	</head>
+ <body style="background-color:rgb(233, 150, 135);">
+<div id="chatbank">
+ <text id="messages"></text>
+
+ <br>
+
+ <!-- <text>See your note here!</text> -->
+</div>
+
+<div>
+	<br>
+	<text id="login">
+		<input type="text" id="username" name="username">
+		<input type="submit" value="confirm name" onclick="setname(document.getElementById('named').value);">
+		<!-- <input type="text" id="username" name="username">
+		<input type="submit" value2="is my name" onclick="setusername(document.getElementById('nickname').value2);"> -->
+		</text>
+		<br>
+ <text id="chat">
+ <input type="text" id="message" name="message">
+ <input type="submit" value="chat" onclick="sendmessage(document.getElementById('message').value);">
+ <!-- <input type="text" id="username" name="username">
+ <input type="submit" value2="is my name" onclick="setusername(document.getElementById('nickname').value2);"> -->
+ </text>
+ <br>
+ <br>
+</div>
+ </body>
+</html>
+```
+
+javaScript:
+```javaScript
+// Express is a node module for building HTTP servers
+var express = require('express');
+var app = express();
+
+// Tell Express to look in the "public" folder for any files first
+app.use(express.static('public'));
+
+// If the user just goes to the "route" / then run this function
+app.get('/', function (req, res) {
+  res.send('Hello World!')
+});
+
+// Here is the actual HTTP server 
+var http = require('http');
+// We pass in the Express object
+var httpServer = http.createServer(app);
+// Listen on port 80, the default for HTTP
+httpServer.listen(80);
+
+// WebSocket Portion
+// WebSockets work with the HTTP server
+// Using Socket.io
+const { Server } = require('socket.io');
+const io = new Server(httpServer, {});
+
+// Old version of Socket.io
+//var io = require('socket.io').listen(httpServer);
+
+// Register a callback function to run when we have an individual connection
+// This is run for each individual user that connects
+io.sockets.on('connection', 
+	// We are given a websocket object in our function
+	function (socket) {
+	
+		socket.on('connect', function() {
+			console.log(socket.io.engine.id);     // old ID
+			socket.io.engine.id = 'username';
+			console.log(socket.io.engine.id);     // new ID
+		});
+		console.log("We have a new client: " + socket.id);
+		
+		// When this user emits, client side: socket.emit('otherevent',some data);
+		socket.on('chatmessage', function(data) {
+			// Data comes in as whatever was sent, including objects
+			console.log("Received: 'chatmessage' " + data);
+			
+			// Send it to all of the clients
+			io.emit('chatmessage', data);
+		});
+		
+		socket.on('disconnect', function() {
+			console.log("Client has disconnected " + socket.id);
+		});
+	}
+);
+```
