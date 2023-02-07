@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mini PIR Sensor with Time and Sensitivity Control - BS612 [Intangible Interaction]
+title: PIR with Time and Sensitivity Control - BS612 [Intangible Interaction]
 description: 
 summary: 
 tags: intangible-interaction 
