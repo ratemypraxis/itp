@@ -7,6 +7,9 @@ tags: intangible-interaction
 ---
 <h2>About the PIR Sensor with Time and Sensitivity Control (BS612):</h2>
 
+This week I studied and tested a human motion sensor with sensitivity and timing controls. Following a <a href = "https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/using-a-pir-w-arduino">tutorial by adafruit</a> I was able to 
+test the sensor and get feedback through the embedded LED in my arduino. 
+
  ![](https://raw.githubusercontent.com/ratemypraxis/itp/master/media/sensingLED.png)
 
 **Sensing angle:** 45 degrees
