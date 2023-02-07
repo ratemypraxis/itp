@@ -12,7 +12,7 @@ test the sensor and get feedback through the embedded LED in my arduino.
 
  ![](https://raw.githubusercontent.com/ratemypraxis/itp/master/media/sensingLED.png)
 
-**Sensing angle:** 45 degrees
+**Sensing angle:** 45 degrees (120 degree spread with cap)
 
 **Sensitivity:** Different from other PIR sensors, this model features a SENS pin (pin 1) which allows you to control sensitiviy of the sensing by manipulating voltage applied through that pin. At 0 volts (ground) the sensor is most sensitive and at 3.3 volts (maximum) the sensor is least sensitive to movement. Using resistors and a given chart from the datasheet one can configure to various levels of sensitivity.
 
