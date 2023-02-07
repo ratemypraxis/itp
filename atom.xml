@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-02-07T13:39:12+00:00</updated>
+ <updated>2023-02-07T15:56:40+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -24,7 +24,7 @@ test the sensor and get feedback through the embedded LED in my arduino.&lt;/p&g
 
 &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/sensingLED.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Sensing angle:&lt;/strong&gt; 45 degrees&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sensing angle:&lt;/strong&gt; 45 degrees (120 degree spread with cap)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Sensitivity:&lt;/strong&gt; Different from other PIR sensors, this model features a SENS pin (pin 1) which allows you to control sensitiviy of the sensing by manipulating voltage applied through that pin. At 0 volts (ground) the sensor is most sensitive and at 3.3 volts (maximum) the sensor is least sensitive to movement. Using resistors and a given chart from the datasheet one can configure to various levels of sensitivity.&lt;/p&gt;
 
