@@ -4,13 +4,63 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-02-07T13:36:48+00:00</updated>
+ <updated>2023-02-07T13:39:12+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
    <email>sh4712@nyu.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>PIR with Time and Sensitivity Control [Intangible Interaction]</title>
+   <link href="/itp/2023/02/07/pirsensor"/>
+   <updated>2023-02-07T00:00:00+00:00</updated>
+   <id>/2023/02/07/pirSensor</id>
+   <content type="html">&lt;h2&gt;About the PIR Sensor with Time and Sensitivity Control (BS612):&lt;/h2&gt;
+
+&lt;p&gt;This week I studied and tested a human motion sensor with sensitivity and timing controls. Following a &lt;a href=&quot;https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/using-a-pir-w-arduino&quot;&gt;tutorial by adafruit&lt;/a&gt; I was able to 
+test the sensor and get feedback through the embedded LED in my arduino.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/sensingLED.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sensing angle:&lt;/strong&gt; 45 degrees&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sensitivity:&lt;/strong&gt; Different from other PIR sensors, this model features a SENS pin (pin 1) which allows you to control sensitiviy of the sensing by manipulating voltage applied through that pin. At 0 volts (ground) the sensor is most sensitive and at 3.3 volts (maximum) the sensor is least sensitive to movement. Using resistors and a given chart from the datasheet one can configure to various levels of sensitivity.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/sensitivityChart.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Timing:&lt;/strong&gt; This PIR also features a dedicated pin for manipulating the length of time that the output pin sends HIGH for. At ground this pin 
+sends a minimum of 2 seconds output and at full 3.3 volts this pin can send output for up to one hour! Timing can also be configured in detail
+making use of resistors and a given chart.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/timingChart.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Distance:&lt;/strong&gt;
+The product description on Adafruit’s webpage states that the sensor can read up to 5 meters away but the data sheet refuses to give specific
+parameters for distance stating that it’s sensing range is “affected by its own SNR, imaging distance
+of Fresnel lens, temperature of the moving body, environment temperature and humidity,
+and electromagnetic interference, etc.” Additionally it states that when the sensor is configured to higher sensitivity (or when the SENS
+pin voltage is lower) the distance it can read becomes longer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Strengths:&lt;/strong&gt; The highly configural nature of this sensor gives it a ton of potential for practical and fun applications alike. Specifically the ability to manipulate sensitivity and output time length is a great strength.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Weaknesses:&lt;/strong&gt; From the backend I’d say the lack of clarity and labelling of the pins on the actual sensor is a weak point for circuit builders and on the frontend the limited scope of the sensing angle is a weakness as well compared to other sensors which may sense a full 360 degrees.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/pinInfo.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Applications:&lt;/strong&gt; The datasheet provides some example uses of this PIR sensor for smart home technologies like air conditioning, doorbells and refrigirators,security tools like cameras and alarms, and lighting systems. It also lists “toy” as an application which intrigued me as an interesting base for ideating on how it can be used.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ideas:&lt;/strong&gt;
+In the realm of “toy” applications I can see this sensor being used to create playful interactions and installations like a little toy boat that floats in a small bowl, controlling a motor to start moving in the water when it sensings presence in front of it 
+or with many of these PIR sensors some installation with immersive audio that triggers playback of different audio files in different areas of a space depending on where motion is detected.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cdn.sparkfun.com/assets/6/7/9/8/e/AK9753_DS.pdf&quot;&gt;Data Sheet&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://www.adafruit.com/product/5578&quot;&gt;Product Listing&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Wooden Key Copy [Fabrication]</title>
@@ -241,58 +291,6 @@ io.sockets.on(&apos;connection&apos;,
 	}
 );
 &lt;/code&gt;&lt;/pre&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Mini PIR Sensor with Time and Sensitivity Control - BS612 [Intangible Interaction]</title>
-   <link href="/itp/2023/02/01/pirsensor"/>
-   <updated>2023-02-01T00:00:00+00:00</updated>
-   <id>/2023/02/01/pirSensor</id>
-   <content type="html">&lt;h2&gt;About the PIR Sensor with Time and Sensitivity Control (BS612):&lt;/h2&gt;
-
-&lt;p&gt;This week I studied and tested a human motion sensor with sensitivity and timing controls. Following a &lt;a href=&quot;https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/using-a-pir-w-arduino&quot;&gt;tutorial by adafruit&lt;/a&gt; I was able to 
-test the sensor and get feedback through the embedded LED in my arduino.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/sensingLED.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sensing angle:&lt;/strong&gt; 45 degrees&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sensitivity:&lt;/strong&gt; Different from other PIR sensors, this model features a SENS pin (pin 1) which allows you to control sensitiviy of the sensing by manipulating voltage applied through that pin. At 0 volts (ground) the sensor is most sensitive and at 3.3 volts (maximum) the sensor is least sensitive to movement. Using resistors and a given chart from the datasheet one can configure to various levels of sensitivity.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/sensitivityChart.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Timing:&lt;/strong&gt; This PIR also features a dedicated pin for manipulating the length of time that the output pin sends HIGH for. At ground this pin 
-sends a minimum of 2 seconds output and at full 3.3 volts this pin can send output for up to one hour! Timing can also be configured in detail
-making use of resistors and a given chart.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/timingChart.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Distance:&lt;/strong&gt;
-The product description on Adafruit’s webpage states that the sensor can read up to 5 meters away but the data sheet refuses to give specific
-parameters for distance stating that it’s sensing range is “affected by its own SNR, imaging distance
-of Fresnel lens, temperature of the moving body, environment temperature and humidity,
-and electromagnetic interference, etc.” Additionally it states that when the sensor is configured to higher sensitivity (or when the SENS
-pin voltage is lower) the distance it can read becomes longer.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Strengths:&lt;/strong&gt; The highly configural nature of this sensor gives it a ton of potential for practical and fun applications alike. Specifically the ability to manipulate sensitivity and output time length is a great strength.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Weaknesses:&lt;/strong&gt; From the backend I’d say the lack of clarity and labelling of the pins on the actual sensor is a weak point for circuit builders and on the frontend the limited scope of the sensing angle is a weakness as well compared to other sensors which may sense a full 360 degrees.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/pinInfo.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Applications:&lt;/strong&gt; The datasheet provides some example uses of this PIR sensor for smart home technologies like air conditioning, doorbells and refrigirators,security tools like cameras and alarms, and lighting systems. It also lists “toy” as an application which intrigued me as an interesting base for ideating on how it can be used.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ideas:&lt;/strong&gt;
-In the realm of “toy” applications I can see this sensor being used to create playful interactions and installations like a little toy boat that floats in a small bowl, controlling a motor to start moving in the water when it sensings presence in front of it 
-or with many of these PIR sensors some installation with immersive audio that triggers playback of different audio files in different areas of a space depending on where motion is detected.&lt;/p&gt;
-
-&lt;p&gt;Ideas inspired by sensor:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://cdn.sparkfun.com/assets/6/7/9/8/e/AK9753_DS.pdf&quot;&gt;Data Sheet&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;https://www.adafruit.com/product/5578&quot;&gt;Product Listing&lt;/a&gt;&lt;/p&gt;
-
 </content>
  </entry>
  
