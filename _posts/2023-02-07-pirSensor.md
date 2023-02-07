@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PIR with Time and Sensitivity Control - BS612 [Intangible Interaction]
+title: PIR with Time and Sensitivity Control [Intangible Interaction]
 description: 
 summary: 
 tags: intangible-interaction 
@@ -43,8 +43,6 @@ pin voltage is lower) the distance it can read becomes longer.
 In the realm of "toy" applications I can see this sensor being used to create playful interactions and installations like a little toy boat that floats in a small bowl, controlling a motor to start moving in the water when it sensings presence in front of it 
 or with many of these PIR sensors some installation with immersive audio that triggers playback of different audio files in different areas of a space depending on where motion is detected.
 
-
-Ideas inspired by sensor:
 
 <a href="https://cdn.sparkfun.com/assets/6/7/9/8/e/AK9753_DS.pdf">Data Sheet</a>
 <br>
