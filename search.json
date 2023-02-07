@@ -19,6 +19,15 @@
     } ,
   
     {
+      "title"    : "Mini PIR Sensor with Time and Sensitivity Control - BS612 [Intangible Interaction]",
+      "description" : "",
+      "category" : "",
+      "tags"     : "intangible-interaction",
+      "url"      : "/itp/2023/02/01/pirsensor",
+      "date"     : "2023-02-01 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "Redesigning Interaction [Intangible Interaction]",
       "description" : "",
       "category" : "",
