@@ -44,5 +44,6 @@ or with many of these PIR sensors some installation with immersive audio that tr
 Ideas inspired by sensor:
 
 <a href="https://cdn.sparkfun.com/assets/6/7/9/8/e/AK9753_DS.pdf">Data Sheet</a>
+<br>
 <a href="https://www.adafruit.com/product/5578">Product Listing</a>
 
