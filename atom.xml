@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-02-07T13:33:49+00:00</updated>
+ <updated>2023-02-07T13:36:48+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -250,6 +250,9 @@ io.sockets.on(&apos;connection&apos;,
    <updated>2023-02-01T00:00:00+00:00</updated>
    <id>/2023/02/01/pirSensor</id>
    <content type="html">&lt;h2&gt;About the PIR Sensor with Time and Sensitivity Control (BS612):&lt;/h2&gt;
+
+&lt;p&gt;This week I studied and tested a human motion sensor with sensitivity and timing controls. Following a &lt;a href=&quot;https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/using-a-pir-w-arduino&quot;&gt;tutorial by adafruit&lt;/a&gt; I was able to 
+test the sensor and get feedback through the embedded LED in my arduino.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/sensingLED.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
