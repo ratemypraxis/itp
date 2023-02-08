@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "/itp/2023/02/08/teachavisitor",
+            "title": "Image training in the browser [ML for the Web]",
+            "summary": null,
+            "content_text": "",
+            "content_html": "<iframe src=\"https://editor.p5js.org/hafferty/full/G3TyQwOrI\"></iframe>",
+            "url": "/itp/2023/02/08/teachavisitor",
+            
+            
+            
+            
+            
+            "date_published": "2023-02-08T00:00:00+00:00",
+            "date_modified": "2023-02-08T00:00:00+00:00",
+            
+                "author":  {
+                "name": "sim",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "/itp/2023/02/07/pirsensor",
             "title": "PIR with Time and Sensitivity Control [Intangible Interaction]",
             "summary": null,

@@ -33,10 +33,14 @@
 <lastmod>2023-02-07T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/itp/2023-02-08-teachAVisitor/</loc>
+<loc>/itp/2023/02/08/teachavisitor</loc>
+<lastmod>2023-02-08T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>/itp/about/</loc>
+</url>
+<url>
+<loc>/itp/tag/stemAccess/</loc>
 </url>
 <url>
 <loc>/itp/tag/coding/</loc>
@@ -48,10 +52,10 @@
 <loc>/itp/tag/netlify/</loc>
 </url>
 <url>
-<loc>/itp/tag/stemAccess/</loc>
+<loc>/itp/tag/ml-for-web/</loc>
 </url>
 <url>
-<loc>/itp/tag/ml-for-web/</loc>
+<loc>/itp/tag/seo/</loc>
 </url>
 <url>
 <loc>/itp/tag/live-web/</loc>
@@ -66,9 +70,6 @@
 <loc>/itp/tag/jekyll/</loc>
 </url>
 <url>
-<loc>/itp/tag/seo/</loc>
-</url>
-<url>
 <loc>/itp/tag/css/</loc>
 </url>
 <url>
@@ -79,6 +80,6 @@
 </url>
 <url>
 <loc>/itp/projects/webPortrait.html</loc>
-<lastmod>2023-02-08T23:25:07+00:00</lastmod>
+<lastmod>2023-02-08T23:30:38+00:00</lastmod>
 </url>
 </urlset>
