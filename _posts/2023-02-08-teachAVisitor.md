@@ -8,4 +8,4 @@ tags: ml-for-web
 
 
 
-<iframe src="https://editor.p5js.org/hafferty/full/G3TyQwOrI"></iframe>
+<iframe width="100%" height="500" src="https://editor.p5js.org/hafferty/full/G3TyQwOrI"></iframe>
