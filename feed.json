@@ -20,8 +20,8 @@
             "id": "/itp/2023/02/08/teachavisitor",
             "title": "Image training in the browser [ML for the Web]",
             "summary": null,
-            "content_text": "",
-            "content_html": "<iframe width=\"100%\" height=\"500\" src=\"https://editor.p5js.org/hafferty/full/G3TyQwOrI\"></iframe>",
+            "content_text": "Training EarthThis week, in repsonse to the assignment of building on top of an ml5.js example, I made a minigame which allows the user to train a text-only virtual pet style character in non-visual concepts through visual input. Fell free to try the game here at this link! ",
+            "content_html": "<h3>Training Earth</h3><p>This week, in repsonse to the assignment of building on top of an ml5.js example, I made a minigame which allows the user to train a text-only virtual pet style character in non-visual concepts through visual input. Fell free to try the game here at <a href=\"https://www.2nd.systems/itp/projects/teachingEarth\">this link!</a><br /> <img src=\"[https://raw.githubusercontent.com/ratemypraxis/itp/master/_posts/preBoxWood.png](https://raw.githubusercontent.com/ratemypraxis/itp/master/media/training.jpg)\" alt=\"screencap of a webpage featuring webcam feed of a person appearing frightened.\" /></p>",
             "url": "/itp/2023/02/08/teachavisitor",
             
             
