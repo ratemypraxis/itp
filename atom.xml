@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-02-09T19:37:10+00:00</updated>
+ <updated>2023-02-09T19:41:36+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -17,7 +17,7 @@
    <link href="/itp/2023/02/08/trainingearth"/>
    <updated>2023-02-08T00:00:00+00:00</updated>
    <id>/2023/02/08/trainingEarth</id>
-   <content type="html">&lt;h3&gt;Training Earth: Making use of ml5.js classification and training tools in the browser&lt;/h3&gt;
+   <content type="html">&lt;h3&gt;Making use of ml5.js classification and training tools in the browser&lt;/h3&gt;
 
 &lt;p&gt;This week, in repsonse to the assignment of building on top of an ml5.js example, I made a minigame which allows the user to train a text-only virtual pet style character in non-visual concepts through visual input. Fell free to try the game here at &lt;a href=&quot;https://www.2nd.systems/itp/projects/teachingEarth&quot;&gt;this link!&lt;/a&gt;
 &lt;br /&gt;
