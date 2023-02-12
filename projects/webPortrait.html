@@ -40,7 +40,6 @@
           <button type="button" onclick="keyAnim()">keyboard</button>
           <button type="button" onclick="mouseAnim()">mouse</button>
           <button type="button" onclick="speakerAnim()">speaker</button>
-          <button onClick="window.location.reload();">refresh</button>
         </p>
         </div>
 
@@ -94,6 +93,7 @@
               })
 
                 function keyAnim() {
+                    window.location.reload();
                   var keyA = document.getElementById("keyboardVid")
 
                   let key = document.getElementById('keyboard');
@@ -103,6 +103,7 @@
                 }
 
                 function speakerAnim() {
+                    window.location.reload();
                   var speakerA = document.getElementById("speakerVid")
 
                   let speak = document.getElementById('speaker');
@@ -112,6 +113,7 @@
                 }
 
                 function mouseAnim() {
+                    window.location.reload();
                   var mouseA = document.getElementById("mouseVid")
 
                   let mou = document.getElementById('mouse');
