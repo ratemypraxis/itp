@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "/itp/2023/02/13/morechats",
+            "title": "Chat App with usernames and enter/exit notifications [Live Web]",
+            "summary": null,
+            "content_text": "Chat application with usernames and enter/exit notificationsYou can view access and test the chat space (when I am running the server) at the page linked here.",
+            "content_html": "<p>Chat application with usernames and enter/exit notifications</p><p>You can view access and test the chat space (when I am running the server) at the <a href=\"http://204.48.20.197/\">page linked here.</a></p>",
+            "url": "/itp/2023/02/13/morechats",
+            
+            
+            
+            
+            
+            "date_published": "2023-02-13T00:00:00+00:00",
+            "date_modified": "2023-02-13T00:00:00+00:00",
+            
+                "author":  {
+                "name": "sim",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "/itp/2023/02/08/trainingearth",
             "title": "Training Earth [ML for the Web]",
             "summary": null,
