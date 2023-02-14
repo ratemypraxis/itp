@@ -20,7 +20,7 @@ thanking everyone for making space for it to speak and sharing a fun story about
 prompting the LEDs to turn on and the audio playback sequence to begin. 
 
 <h2> Tools </h2>
-* <a href ="https://itp.nyu.edu/er/equipment.php?id=3788&inShop"> Mic amp</a> (<a href ="https://www.adafruit.com/product/2716">Analog</a> or <a href ="https://www.adafruit.com/product/3421">Digital</a>?)
+* <a href ="https://itp.nyu.edu/er/equipment.php?id=3788&inShop"> Mic amp</a> (<a href ="https://www.adafruit.com/product/2716">Analog</a> or <a href ="https://www.adafruit.com/product/3421">Digital</a>?) or <a href="https://itp.nyu.edu/er/equipment.php?model=1116&inShop">sound detector.</a>
 * <a href ="https://www.adafruit.com/product/3968">Speaker</a>
 * <a href = "https://itp.nyu.edu/er/equipment.php?model=1214&inShop"> SD card breakout</a>
 * <a href ="https://www.adafruit.com/product/3006">Amp I2S breakout</a>
