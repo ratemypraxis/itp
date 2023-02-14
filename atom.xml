@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-02-14T13:40:51+00:00</updated>
+ <updated>2023-02-14T15:39:35+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -30,7 +30,7 @@ prompting the LEDs to turn on and the audio playback sequence to begin.&lt;/p&gt
 
 &lt;h2&gt; Tools &lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itp.nyu.edu/er/equipment.php?id=3788&amp;amp;inShop&quot;&gt; Mic amp&lt;/a&gt; (&lt;a href=&quot;https://www.adafruit.com/product/2716&quot;&gt;Analog&lt;/a&gt; or &lt;a href=&quot;https://www.adafruit.com/product/3421&quot;&gt;Digital&lt;/a&gt;?)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itp.nyu.edu/er/equipment.php?id=3788&amp;amp;inShop&quot;&gt; Mic amp&lt;/a&gt; (&lt;a href=&quot;https://www.adafruit.com/product/2716&quot;&gt;Analog&lt;/a&gt; or &lt;a href=&quot;https://www.adafruit.com/product/3421&quot;&gt;Digital&lt;/a&gt;?) or &lt;a href=&quot;https://itp.nyu.edu/er/equipment.php?model=1116&amp;amp;inShop&quot;&gt;sound detector.&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.adafruit.com/product/3968&quot;&gt;Speaker&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://itp.nyu.edu/er/equipment.php?model=1214&amp;amp;inShop&quot;&gt; SD card breakout&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.adafruit.com/product/3006&quot;&gt;Amp I2S breakout&lt;/a&gt;&lt;/li&gt;
