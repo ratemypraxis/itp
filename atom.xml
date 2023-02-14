@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-02-14T13:09:06+00:00</updated>
+ <updated>2023-02-14T13:20:36+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -43,6 +43,25 @@ prompting the LEDs to turn on and the audio playback sequence to begin.&lt;/p&gt
    <content type="html">&lt;p&gt;Chat application with usernames and enter/exit notifications&lt;/p&gt;
 
 &lt;p&gt;You can view access and test the chat space (when I am running the server) at the &lt;a href=&quot;http://204.48.20.197/&quot;&gt;page linked here.&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lasercut Locks [Fabrication]</title>
+   <link href="/itp/2023/02/13/laserlock"/>
+   <updated>2023-02-13T00:00:00+00:00</updated>
+   <id>/2023/02/13/laserLock</id>
+   <content type="html">&lt;h2&gt;Big lock, little lock, laser, laser&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/bigLockLilLockScale.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/bigLockHold.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/tinyLockHold.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  

@@ -19,6 +19,15 @@
     } ,
   
     {
+      "title"    : "Lasercut Locks [Fabrication]",
+      "description" : "",
+      "category" : "",
+      "tags"     : "fabrication",
+      "url"      : "/itp/2023/02/13/laserlock",
+      "date"     : "2023-02-13 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "Training Earth [ML for the Web]",
       "description" : "",
       "category" : "",
