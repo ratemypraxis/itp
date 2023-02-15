@@ -188,7 +188,7 @@ function gotResults(err, result) {
   }
 
   classificationResult = result[0].label;
-  confidence = result[0].confidence * 100;
+  confidence = nf(result[0].confidence * 100, -2, -1);
   textAlign(CENTER);
   text("Alright, so I'm like " + confidence + " percent sure this is " + result[0].label + " right?", width / 2, height - height / 1.2);
 
