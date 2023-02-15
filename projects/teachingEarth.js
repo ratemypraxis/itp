@@ -16,12 +16,12 @@ let num2 = 0;
 let counting = false;
 let items = [
   "friendship",
-  "care",
-  "fun",
+  "happiness",
+  "stress",
   "fear",
   "joy",
-  "pain",
-  "safety",
+  "deep thought",
+  "swag",
   "effort",
   "intellect",
   "insight",
@@ -80,7 +80,7 @@ function draw() {
   }
   if (intro) {
     text(
-      "Hi I'm Rue, a recently re-spawned energy form lookin to learn about the concepts of this earth.\n Any chance you can show me what some concepts appear like to you?",
+      "Hi I'm Rue, a recently re-spawned energy form\n lookin to learn about the concepts of this earth.\n Any chance you can show me what some\n concepts appear like to you?",
       width / 2,
       height - height / 1.2
     );
