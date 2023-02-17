@@ -9,13 +9,13 @@ tags: stem-accessibility
 
 <h2> Movement </h2>
 
-<iframe src="https://drive.google.com/file/d/1Ark9cGesoaDyWEdEbR6vW2nINa97tt8e/preview" width="640" height="480" allow="autoplay"></iframe>
+<embed src="https://drive.google.com/file/d/1Ark9cGesoaDyWEdEbR6vW2nINa97tt8e/preview" width="640" height="480">
 
 <h2> Reaction </h2>
 
-<iframe src="https://drive.google.com/file/d/1_KPhE8hYPL9k82MVx6eSGOa-hqqqPCfZ/preview" width="640" height="480" allow="autoplay"></iframe>
+<embed src="https://drive.google.com/file/d/1_KPhE8hYPL9k82MVx6eSGOa-hqqqPCfZ/preview" width="640" height="480">
 
 
 <h2> Interaction </h2>
 
-<iframe src="https://drive.google.com/file/d/1LMsk2LchGa_sUJ4XUGdtaWOEZhxsTCfp/preview" width="640" height="480" allow="autoplay"></iframe>
+<embed src="https://drive.google.com/file/d/1LMsk2LchGa_sUJ4XUGdtaWOEZhxsTCfp/preview" width="640" height="480">
