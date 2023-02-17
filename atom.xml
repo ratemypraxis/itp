@@ -4,13 +4,34 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-02-15T18:58:12+00:00</updated>
+ <updated>2023-02-17T15:46:49+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
    <email>sh4712@nyu.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>MicroBit STEM Toys [Stem Accessibility]</title>
+   <link href="/itp/2023/02/17/microbitstemtoys"/>
+   <updated>2023-02-17T00:00:00+00:00</updated>
+   <id>/2023/02/17/microBitStemToys</id>
+   <content type="html">&lt;h1&gt;Three STEM toys made with MicroBit&lt;/h1&gt;
+
+&lt;h2&gt; Movement &lt;/h2&gt;
+
+&lt;iframe src=&quot;https://drive.google.com/file/d/1Ark9cGesoaDyWEdEbR6vW2nINa97tt8e/preview&quot; width=&quot;640&quot; height=&quot;480&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2&gt; Reaction &lt;/h2&gt;
+
+&lt;iframe src=&quot;https://drive.google.com/file/d/1_KPhE8hYPL9k82MVx6eSGOa-hqqqPCfZ/preview&quot; width=&quot;640&quot; height=&quot;480&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2&gt; Interaction &lt;/h2&gt;
+
+&lt;iframe src=&quot;https://drive.google.com/file/d/1LMsk2LchGa_sUJ4XUGdtaWOEZhxsTCfp/preview&quot; width=&quot;640&quot; height=&quot;480&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Curious Cube Idea [Intangible Interaction]</title>
