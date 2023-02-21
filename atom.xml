@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-02-17T15:48:16+00:00</updated>
+ <updated>2023-02-21T08:50:07+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -76,7 +76,7 @@ prompting the LEDs to turn on and the audio playback sequence to begin.&lt;/p&gt
    <id>/2023/02/13/morechats</id>
    <content type="html">&lt;p&gt;Chat application with usernames and enter/exit notifications&lt;/p&gt;
 
-&lt;p&gt;You can view access and test the chat space (when I am running the server) at the &lt;a href=&quot;http://204.48.20.197/&quot;&gt;page linked here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can view access and test the chat space (when I am running the server) at the &lt;a href=&quot;http://sh4712.itp.io/&quot;&gt;page linked here.&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
