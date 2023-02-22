@@ -9,5 +9,5 @@ tags: ml-for-web
 
 A PoseNet program which turns your wrist into a flashlight
 
-Find the program at the following link: [https://editor.p5js.org/hafferty/sketches/2r8l7dIJc](https://www.2nd.systems/itp/projects/flashlight)
+Find the program at [this link](https://www.2nd.systems/itp/projects/flashlight)
 
