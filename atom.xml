@@ -4,13 +4,27 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-02-22T22:49:12+00:00</updated>
+ <updated>2023-02-22T22:51:02+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
    <email>sh4712@nyu.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>Positional Flashlight [ML for the Web]</title>
+   <link href="/itp/2023/02/22/flashlightchat"/>
+   <updated>2023-02-22T00:00:00+00:00</updated>
+   <id>/2023/02/22/flashlightChat</id>
+   <content type="html">&lt;h3&gt;Making use of poseNet and p5 to map a light to a user&apos;s wrist &lt;/h3&gt;
+
+&lt;p&gt;A PoseNet program which turns your wrist into a flashlight&lt;/p&gt;
+
+&lt;p&gt;Find the program at the following link: &lt;a href=&quot;https://www.2nd.systems/itp/projects/flashlight&quot;&gt;https://editor.p5js.org/hafferty/sketches/2r8l7dIJc&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Making an enclosure [Fabrication]</title>
