@@ -20,8 +20,8 @@
             "id": "/itp/2023/02/22/flashlightchat",
             "title": "Positional Flashlight [ML for the Web]",
             "summary": null,
-            "content_text": "Making use of poseNet and p5 to map a light to a user's wrist A PoseNet program which turns your wrist into a flashlightFind the program at the following link: https://editor.p5js.org/hafferty/sketches/2r8l7dIJc",
-            "content_html": "<h3>Making use of poseNet and p5 to map a light to a user's wrist </h3><p>A PoseNet program which turns your wrist into a flashlight</p><p>Find the program at the following link: <a href=\"https://www.2nd.systems/itp/projects/flashlight\">https://editor.p5js.org/hafferty/sketches/2r8l7dIJc</a></p>",
+            "content_text": "Making use of poseNet and p5 to map a light to a user's wrist A PoseNet program which turns your wrist into a flashlightFind the program at this link",
+            "content_html": "<h3>Making use of poseNet and p5 to map a light to a user's wrist </h3><p>A PoseNet program which turns your wrist into a flashlight</p><p>Find the program at <a href=\"https://www.2nd.systems/itp/projects/flashlight\">this link</a></p>",
             "url": "/itp/2023/02/22/flashlightchat",
             
             
