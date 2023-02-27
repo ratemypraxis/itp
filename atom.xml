@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-02-27T14:51:22+00:00</updated>
+ <updated>2023-02-27T15:03:21+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -17,7 +17,7 @@
    <link href="/itp/2023/02/27/livewebmidterm"/>
    <updated>2023-02-27T00:00:00+00:00</updated>
    <id>/2023/02/27/liveWebMidterm</id>
-   <content type="html">&lt;h1&gt; Collaborative Live Audiobook &lt;h2&gt;
+   <content type="html">&lt;h1&gt; Collaborative Live Audiobook &lt;h1&gt;
   A chat space in which users can record short bits of audio to a shared playlist with the goal of creating a cohesive story. The frontent webpage will
   display a text chat section for story planning, reactions, and whatever the users like. Another half side of the webpage will feature an audiozone
   with tools to record, playback and upload microphone recordings to a shared playlist. The shared playlist displays the same content for all users,
@@ -26,7 +26,7 @@
   Full Screen Sketch            |  Audio Zone Sketch
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/ratemypraxis/itp/master/media/liveWebMidtermSketch2.jpg)  |  ![](https://raw.githubusercontent.com/ratemypraxis/itp/master/media/liveWebMidtermSketch1.jpg)
-&lt;/h2&gt;&lt;/h1&gt;
+&lt;/h1&gt;&lt;/h1&gt;
 </content>
  </entry>
  
