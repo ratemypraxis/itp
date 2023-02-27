@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-02-27T15:03:21+00:00</updated>
+ <updated>2023-02-27T15:03:48+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -17,16 +17,26 @@
    <link href="/itp/2023/02/27/livewebmidterm"/>
    <updated>2023-02-27T00:00:00+00:00</updated>
    <id>/2023/02/27/liveWebMidterm</id>
-   <content type="html">&lt;h1&gt; Collaborative Live Audiobook &lt;h1&gt;
-  A chat space in which users can record short bits of audio to a shared playlist with the goal of creating a cohesive story. The frontent webpage will
+   <content type="html">&lt;h1&gt; Collaborative Live Audiobook &lt;/h1&gt;
+&lt;p&gt;A chat space in which users can record short bits of audio to a shared playlist with the goal of creating a cohesive story. The frontent webpage will
   display a text chat section for story planning, reactions, and whatever the users like. Another half side of the webpage will feature an audiozone
   with tools to record, playback and upload microphone recordings to a shared playlist. The shared playlist displays the same content for all users,
-  attributing each added track to the inputted username of whoever recorded it. 
-  
-  Full Screen Sketch            |  Audio Zone Sketch
-:-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/ratemypraxis/itp/master/media/liveWebMidtermSketch2.jpg)  |  ![](https://raw.githubusercontent.com/ratemypraxis/itp/master/media/liveWebMidtermSketch1.jpg)
-&lt;/h1&gt;&lt;/h1&gt;
+  attributing each added track to the inputted username of whoever recorded it.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Full Screen Sketch&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Audio Zone Sketch&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/liveWebMidtermSketch2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/liveWebMidtermSketch1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 </content>
  </entry>
  
