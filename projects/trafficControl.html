@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <style>
+    html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+canvas {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  height: 50%;
+  padding: 20px;
+  text-align: center;
+}
+  </style>
+  <head>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-core"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-converter"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/handpose"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/knn-classifier"></script>
+    <meta charset="utf-8" />
+
+  </head>
+  <body style="background-color:gray; text-align: center;">
+    <h2>Traffic Controller Simulator</h2>
+  <div id="canvasContainer"></div>
+  <p id="status">Loading Model...</p>
+  <p>
+    Hand Pose KNN saw this
+    as Class: <span id="result">...</span>
+    with a confidence of <span id="confidence">...</span>
+  </p>
+  <p>
+    <span class="emoji"> 🔴 </span><button id="addClassRed">Add an Example to Class Red Light</button>
+    <button id="resetRed">Reset Red Light</button>
+    </p><p><span id="exampleRed">0</span> Red Light examples | Confidence in Red is: <span id="confidenceRed">0</span></p>
+
+    <span class="emoji"> 🟢 </span><button id="addClassGreen">Add an Example to Class Green Light</button>
+    <button id="resetGreen">Reset Green Light</button>
+    <p><span id="exampleGreen">0</span> Green Light examples | Confidence in Green is: <span id="confidenceGreen">0</span></p>
+
+<!--     <span class="emoji"> ✌️ </span><button id="addClassScissor">Add an Example to Class Scissor</button>
+    <button id="resetScissor">Reset Class Scissor</button>
+    <p><span id="exampleScissor">0</span> Scissor examples | Confidence in Scissor is: <span id="confidenceScissor">0</span></p> -->
+  
+    <script src="sketch.js"></script>
+      <p>
+    <button id="buttonPredict">Start predicting!</button>
+    <button id="clearAll">Clear all classes</button><br />
+  </p>
+  </body>
+</html>
