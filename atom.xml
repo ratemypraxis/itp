@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-02-27T22:29:33+00:00</updated>
+ <updated>2023-03-01T20:27:00+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -19,6 +19,8 @@
    <id>/2023/02/27/shield</id>
    <content type="html">&lt;h1&gt;Metal and Wood Shield&lt;/h1&gt;
 
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/metalDesk.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;This week I spent a lot of time changing my mind and failing. My main issue was that I simply could not come up with an idea for this week’s
 assignment that I liked and felt very true to my theme. All I knew was that I want to use sheet metal because it sounds cool and looks cool as well.
 Anyways I eventually settled on planning to make a display case because it vaguely invoked security and woud be a decent yet hard to mess up challenge 
@@ -30,13 +32,13 @@ After a short chat with a service worker I also grabbed some fine thread screws,
 At the shop I got right to work, deciding to build an outline style (edges and corners only / no fill) box frame out of the wood. I decided to use the mitor saw
 cut four pieces in 12” by 1 3/4” and eight pieces into 10.5” by 1 3/4”, making use of the 1.5” depth measurement to have some pieces fit into the frame nicely to have a perfect cube.
 &lt;br /&gt;
-After cutting everything up I did a mock placement test to make sure everything was square. I noticed the box frame was a little bit for the metal sheet which
-I wanted to place over it so I hit the band saw to shave a few centimeters off and returned to find a solid fit.&lt;/p&gt;
+After cutting everything up I did a mock placement test to make sure everything was square. I noticed the box frame was a little big for the metal sheet which
+I wanted to place over it so I hit the band saw to shave a few centimeters off and returned to find a solid fit.
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;[Pics incoming]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/backOfSmallShield.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;
-After sitting and staring at the placement test in the above image for many minutes I came up with the idea to make a shield instead. I asked several shop
+&lt;p&gt;After sitting and staring at the placement test in the above image for many minutes I came up with the idea to make a shield instead. I asked several shop
 staff throughout the day about engraving and/or cutting galvanized steel in the laser cutter and everyone seemed to think it was okay so I made a cool 
 shield design and a small test print to give it a shot. Upong printing the test print to the steel I found that nothing happened except for a foul, semi-concerning smell. 
 &lt;br /&gt;
@@ -46,8 +48,15 @@ The bandsaw was broken and the pieces I needed to cut where too small for the mi
 At this point it was tired and late so I just cut another $8 sheet of steel quickly, clamed the handle pieces down together and to the sheet metal and 
 screwed in two screws. I do not like how it looks and the edges are too sharp.
 &lt;br /&gt;
-I don’t have much time before class to spend in the shop but I hope to attempt to make another shield that looks like the placement test of the display box wall 
-pictured earlier, just with a handle attached on the backside.&lt;/p&gt;
+  Weird Shield Side View           |  Weird Shield Back
+:————————-:|:————————-:
+&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/holdingWeirdSheild.jpg&quot; alt=&quot;&quot; /&gt;  |  &lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/backOfWeirdShield.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally in a fraction of the time spent in earlier mentioned efforts, I returned to the shot and recreated a more minimalist design of the shield which is quite similar to what one side of the display box I was originally planning would look like.
+&lt;br /&gt;
+  Front of Shield            |  Back of Shield
+:————————-:|:————————-:
+&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/shieldBack.jpg&quot; alt=&quot;&quot; /&gt;  |  &lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/shieldBack.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
