@@ -4,13 +4,27 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-03-01T21:51:59+00:00</updated>
+ <updated>2023-03-01T21:55:30+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
    <email>sh4712@nyu.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>Traffic Control Simulator [ML for the Web]</title>
+   <link href="/itp/2023/03/01/trafficcontrolsim"/>
+   <updated>2023-03-01T00:00:00+00:00</updated>
+   <id>/2023/03/01/trafficControlSim</id>
+   <content type="html">&lt;h3&gt;Making use of Hand Pose with KNN Classifier to create a Traffic Controller Simulator &lt;/h3&gt;
+
+&lt;p&gt;A p5 sketch with Hand Pose and KNN that turns your hand and its gestures into a controller of traffic.&lt;/p&gt;
+
+&lt;p&gt;Find the program at &lt;a href=&quot;https://www.2nd.systems/itp/projects/trafficControl&quot;&gt;this link&lt;/a&gt; at the code on p5 at &lt;a href=&quot;https://editor.p5js.org/hafferty/sketches/8NnFkY9Sj&quot;&gt;this link.&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Steel and Wood Shield [Fabrication]</title>

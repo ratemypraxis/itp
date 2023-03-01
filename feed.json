@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "/itp/2023/03/01/trafficcontrolsim",
+            "title": "Traffic Control Simulator [ML for the Web]",
+            "summary": null,
+            "content_text": "Making use of Hand Pose with KNN Classifier to create a Traffic Controller Simulator A p5 sketch with Hand Pose and KNN that turns your hand and its gestures into a controller of traffic.Find the program at this link at the code on p5 at this link.",
+            "content_html": "<h3>Making use of Hand Pose with KNN Classifier to create a Traffic Controller Simulator </h3><p>A p5 sketch with Hand Pose and KNN that turns your hand and its gestures into a controller of traffic.</p><p>Find the program at <a href=\"https://www.2nd.systems/itp/projects/trafficControl\">this link</a> at the code on p5 at <a href=\"https://editor.p5js.org/hafferty/sketches/8NnFkY9Sj\">this link.</a></p>",
+            "url": "/itp/2023/03/01/trafficcontrolsim",
+            
+            
+            
+            
+            
+            "date_published": "2023-03-01T00:00:00+00:00",
+            "date_modified": "2023-03-01T00:00:00+00:00",
+            
+                "author":  {
+                "name": "sim",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "/itp/2023/02/27/shield",
             "title": "Steel and Wood Shield [Fabrication]",
             "summary": null,
