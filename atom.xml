@@ -4,13 +4,30 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-03-06T17:06:07+00:00</updated>
+ <updated>2023-03-06T23:34:07+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
    <email>sh4712@nyu.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>(Midterm) Collabo Audio Book [Live Web]</title>
+   <link href="/itp/2023/03/06/midterm"/>
+   <updated>2023-03-06T00:00:00+00:00</updated>
+   <id>/2023/03/06/midterm</id>
+   <content type="html">&lt;h1&gt;Collabo Audio Book&lt;/h1&gt;
+
+&lt;p&gt;Test it out &lt;a href=&quot;https://sh4712.itp.io/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It is kind of broken in that the audio files recorded and added to the playlist are not shared or accessible by user’s who did not record them.&lt;/p&gt;
+
+&lt;p&gt;Code can be found at &lt;a href=&quot;https://github.com/ratemypraxis/liveCollaboAudioBook&quot;&gt;this link.&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/audioBook.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Traffic Control Simulator [ML for the Web]</title>
@@ -813,23 +830,6 @@ to you! Try to be creative&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;/table&gt;
 
 &lt;p&gt;I had to leave town last minute to deal with a family situation but if I have time when I return I want to try decorating it with other materials and try to make another box using this piece of wood I cut from a bigger cylinder piece in the scrap bin.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>(Midterm) Collabo Audio Book [Live Web]</title>
-   <link href="/itp/2023/01/25/midterm"/>
-   <updated>2023-01-25T00:00:00+00:00</updated>
-   <id>/2023/01/25/midterm</id>
-   <content type="html">&lt;h1&gt;Collabo Audio Book&lt;/h1&gt;
-
-&lt;p&gt;Test it out &lt;a href=&quot;https://sh4712.itp.io/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;It is kind of broken in that the audio files recorded and added to the playlist are not shared or accessible by user’s who did not record them.&lt;/p&gt;
-
-&lt;p&gt;Code can be found at &lt;a href=&quot;https://github.com/ratemypraxis/liveCollaboAudioBook&quot;&gt;this link.&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/audioBook.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
