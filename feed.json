@@ -429,7 +429,7 @@
             "title": "(Midterm) Collabo Audio Book [Live Web]",
             "summary": null,
             "content_text": "Collabo Audio BookTest it out here.It is kind of broken in that the audio files recorded and added to the playlist are not shared or accessible by user’s who did not record them.Code can be found at this link..",
-            "content_html": "<h1>Collabo Audio Book</h1><p>Test it out <a href=\"https://sh4712.itp.io/\">here</a>.</p><p>It is kind of broken in that the audio files recorded and added to the playlist are not shared or accessible by user’s who did not record them.</p><p>Code can be found at <a href=\"https://github.com/ratemypraxis/liveCollaboAudioBook\">this link.</a>.</p>",
+            "content_html": "<h1>Collabo Audio Book</h1><p>Test it out <a href=\"https://sh4712.itp.io/\">here</a>.</p><p>It is kind of broken in that the audio files recorded and added to the playlist are not shared or accessible by user’s who did not record them.</p><p>Code can be found at <a href=\"https://github.com/ratemypraxis/liveCollaboAudioBook\">this link.</a>.</p><p><img src=\"https://raw.githubusercontent.com/ratemypraxis/itp/master/media/audioBook.PNG\" alt=\"\" /></p>",
             "url": "/itp/2023/01/25/midterm",
             
             

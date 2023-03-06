@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-03-06T17:05:39+00:00</updated>
+ <updated>2023-03-06T17:06:07+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -828,6 +828,8 @@ to you! Try to be creative&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;It is kind of broken in that the audio files recorded and added to the playlist are not shared or accessible by user’s who did not record them.&lt;/p&gt;
 
 &lt;p&gt;Code can be found at &lt;a href=&quot;https://github.com/ratemypraxis/liveCollaboAudioBook&quot;&gt;this link.&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/audioBook.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
