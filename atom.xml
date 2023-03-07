@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-03-07T14:29:35+00:00</updated>
+ <updated>2023-03-07T14:31:32+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -19,9 +19,14 @@
    <id>/2023/03/06/solitudeCube</id>
    <content type="html">&lt;h1&gt; Solitude Cube with sensors, motors and mirrors&lt;/h1&gt;
 
-&lt;p&gt;Based on a concept by Lang regarding the concepts of solitude, our cube provides interacters with a moment of individual peace and&lt;/p&gt;
+&lt;p&gt;Based on a concept by Lang regarding the concepts of solitude, our cube provides interacters with a moment of individual peace and control of a self-contained envrionment of reflection.&lt;/p&gt;
 
-&lt;h2&gt;Circuitry&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;inside cube after spray paitning dark&lt;/strong&gt;
+&lt;img src=&quot;c0.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+  inside view   |  top angle view of open cube
+:————————-:|:————————-:
+&lt;img src=&quot;c1.JPG&quot; alt=&quot;&quot; /&gt;  |  &lt;img src=&quot;c2.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2&gt;Arduino Code&lt;/h2&gt;
 
