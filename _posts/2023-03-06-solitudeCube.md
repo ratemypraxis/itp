@@ -10,10 +10,14 @@ minute: 1
 
 <h1> Solitude Cube with sensors, motors and mirrors</h1>
 
-Based on a concept by Lang regarding the concepts of solitude, our cube provides interacters with a moment of individual peace and 
+Based on a concept by Lang regarding the concepts of solitude, our cube provides interacters with a moment of individual peace and control of a self-contained envrionment of reflection.
 
-
-<h2>Circuitry</h2>
+<strong>inside cube after spray paitning dark</strong>
+![](c0.jpg)
+<br>
+  inside view   |  top angle view of open cube
+:-------------------------:|:-------------------------:
+![](c1.JPG)  |  ![](c2.JPG)
 
 <h2>Arduino Code</h2>
 
