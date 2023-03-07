@@ -17,9 +17,7 @@ Based on a concept by Lang regarding the concepts of solitude, our cube provides
 
 <strong>inside cube after spray paitning dark</strong>
 ![](c0.jpg)
-<br>
-  inside view   |  top angle view of open cube
-:-------------------------:|:-------------------------:
+
 ![](c1.JPG)  |  ![](c2.JPG)
 
 <h2>Arduino Code</h2>
