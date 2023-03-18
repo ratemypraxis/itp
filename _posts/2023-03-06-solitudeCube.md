@@ -13,12 +13,12 @@ minute: 1
 Based on a concept by Lang regarding the concepts of solitude, our cube provides interacters with a moment of individual peace and control of a self-contained envrionment of reflection.
 
 <strong> Initial sketch idea by Lang</strong>
-![](solitude_sketch.png)
+![](https://raw.githubusercontent.com/ratemypraxis/itp/master/media/solitude_sketch.png)
 
 <strong>inside cube after spray paitning dark</strong>
-![](c0.jpg)
+![](https://raw.githubusercontent.com/ratemypraxis/itp/master/media/c0.jpg)
 
-![](c1.JPG)  |  ![](c2.JPG)
+![](https://raw.githubusercontent.com/ratemypraxis/itp/master/media/c1.JPG)  |  ![](https://raw.githubusercontent.com/ratemypraxis/itp/master/media/c2.JPG)
 
 <h2>Arduino Code</h2>
 
