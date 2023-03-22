@@ -7,7 +7,9 @@ tags: ml-for-web
 ---
 <h3>Making use of Runway's AI Magic Tools to generate a short video art film. </h3>
 
+
 ![Electromagnetic Spiral](https://user-images.githubusercontent.com/49932341/227027051-e09373c0-7e07-432b-8ae3-ef8f7ae7c26b.mp4)
+
 
 <iframe src="https://user-images.githubusercontent.com/49932341/227036037-dc29c8fb-ea5d-4578-ae5c-85aad98ef783.mp4" width="100%" height="1080" title="Electromagnetic Spiral" autoplay = "autoplay" loop = "loop">
 </iframe>
