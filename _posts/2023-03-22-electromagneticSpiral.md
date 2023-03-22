@@ -13,14 +13,27 @@ tags: ml-for-web
 
 1. I started generating an image with text to image an a prompt that read "electromagnetic field"
 ![9e0dcc5e-6cc6-41fc-8f8e-d2e4a5bc3f4e jpg](https://user-images.githubusercontent.com/49932341/227034584-6d1f25e7-cb11-44c8-85bf-681851a04e9a.jpg)
-3. Then I sent that image to the image variations tool which I ran a few times before landing on an image that spoke to me.
-4. Image Variation 1       |  Image Variation 2
-:-------------------------:|:-------------------------:
+
+2. Then I sent that image to the image variations tool which I ran a few times before landing on an image that spoke to me.
 ![Runway 2023-03-22T19 47 00 561Z Image Variation jpg](https://user-images.githubusercontent.com/49932341/227034880-d6ad72bc-bc91-4924-8820-559d71179ddb.jpg) ![Runway 2023-03-22T19 44 45 977Z Image Variation jpg](https://user-images.githubusercontent.com/49932341/227035063-ef00a24e-75da-4070-8d32-d2f311b20efd.jpg)
 
-5. From there ran Erase and Replace on one of the variations several times to create a few frames of the image transforming into a spriral
+3. From there ran Erase and Replace on one of the variations several times to create a few frames of the image transforming into a spriral
+![erase-and-replace png](https://user-images.githubusercontent.com/49932341/227035411-49588d0b-217e-4e6b-9ae7-72b47840c54e.png)
+![erase-and-replace png (2)](https://user-images.githubusercontent.com/49932341/227035426-49200bcf-c894-4ff7-a6c3-8c735f4a5d64.png)
+![erase-and-replace png (3)](https://user-images.githubusercontent.com/49932341/227035435-6557daea-4b89-4dd3-ad3f-1ce8da3fe3be.png)
+![black spiral jpg](https://user-images.githubusercontent.com/49932341/227035442-f4e54dd6-b7a9-4f3a-88ac-1cf8b5dc63fd.jpg)
 
-7. I then ran image variation again before dragging about 15 frames into Frame Interpolation to create a short video.
+4. I then ran image variation to create a change in sequence.
+![Runway 2023-03-22T19 53 33 773Z Image to Image beam of blue light explosion jpg](https://user-images.githubusercontent.com/49932341/227035840-0dcbe24d-8662-40cb-bb16-fb776726b0ac.jpg)
+
+
+5. Before running image to image a few times to manipulate the color of the image with the prompt "blue light fill"
+![Runway 2023-03-22T19 53 56 522Z Image to Image blue light fill jpg](https://user-images.githubusercontent.com/49932341/227035936-be47d283-f055-4e41-a7bf-1d2b3c1a84be.jpg)
+
+6. Lasty I brought all of the images together in Frame Interpolation to create a short video.
+
+https://user-images.githubusercontent.com/49932341/227036037-dc29c8fb-ea5d-4578-ae5c-85aad98ef783.mp4
+
 
 <h4>Describe the results of working with the tool, do they match your expectations?</h4>
 I believe the result is a pretty simple video with a slight computer graphics look and a strong AI generated look. I expected the Frame Interpolation to be more intelligent in creating an organic transistion between frames but it seems to just be a morph transition tool more than anything else. The text to image generations met my expectations in creating images that brought me joy in relation to my unrealistic prompts. 
