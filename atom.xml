@@ -4,13 +4,42 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-03-22T20:36:54+00:00</updated>
+ <updated>2023-03-22T20:37:09+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
    <email>sh4712@nyu.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>Electromagnetic Spiral film [ML for the Web]</title>
+   <link href="/itp/2023/03/22/electromagneticspiral"/>
+   <updated>2023-03-22T00:00:00+00:00</updated>
+   <id>/2023/03/22/electromagneticSpiral</id>
+   <content type="html">&lt;h3&gt;Making use of Runway&apos;s AI Magic Tools to generate a short video art film. &lt;/h3&gt;
+
+&lt;p&gt;https://user-images.githubusercontent.com/49932341/227027051-e09373c0-7e07-432b-8ae3-ef8f7ae7c26b.mp4&lt;/p&gt;
+
+&lt;h4&gt;Workflow&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;I started generating an image with text to image an a prompt that read “electromagnetic field”&lt;/li&gt;
+  &lt;li&gt;Then I sent that image to the image variations tool which I ran a few times before landing on an image that spoke to me.&lt;/li&gt;
+  &lt;li&gt;From there ran Erase and Replace on one of the variations several times to create a few frames of the image transforming into a spriral&lt;/li&gt;
+  &lt;li&gt;I then ran image variation again before dragging about 15 frames into Frame Interpolation to create a short video.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4&gt;Describe the results of working with the tool, do they match your expectations?&lt;/h4&gt;
+
+&lt;h4&gt;Can you &quot;break&quot; the tool? In other words, use it in a way that it was intended for and what kinds of results do you get?&lt;/h4&gt;
+&lt;h4&gt;Can you find any pro tips in terms of prompt engineering?&lt;/h4&gt;
+&lt;h4&gt;Can you change your prompt to make the generated results better?&lt;/h4&gt;
+&lt;h4&gt;You can also pick one image from lexica as a start point.&lt;/h4&gt;
+
+&lt;h4&gt;Compare and contrast working with Runway as a tool for machine learning as related to ml5.js, python, and any other tools explored this semester.&lt;/h4&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Solitude Cube [Intangible Interaction]</title>
