@@ -7,12 +7,7 @@ tags: ml-for-web
 ---
 <h3>Making use of Runway's AI Magic Tools to generate a short video art film. </h3>
 
-
-![Electromagnetic Spiral](https://user-images.githubusercontent.com/49932341/227027051-e09373c0-7e07-432b-8ae3-ef8f7ae7c26b.mp4)
-
-
-<iframe src="https://user-images.githubusercontent.com/49932341/227036037-dc29c8fb-ea5d-4578-ae5c-85aad98ef783.mp4" width="100%" height="1080" title="Electromagnetic Spiral" autoplay = "autoplay" loop = "loop">
-</iframe>
+https://user-images.githubusercontent.com/49932341/227036037-dc29c8fb-ea5d-4578-ae5c-85aad98ef783.mp4
 
 <h4>Workflow</h4>
 
@@ -48,7 +43,6 @@ By inputting concepts into the text-toimage tool rather than actual real life re
 
 <h4>Can you find any pro tips in terms of prompt engineering?</h4>
 If you are looking to generate images of abstract concepts, include more words of real-life reference points that may have actual recorded imagery in a database. 
-
 
 <h4>Compare and contrast working with Runway as a tool for machine learning as related to ml5.js, python, and any other tools explored this semester.</h4>
 Working with AI Magic Tools in Runway felt like a much more passive experience than working in ml5.js for image generation/training and python for text generation in the past. The latter two allow much more control of the process of generation and thus, in my opinion, provide more satisfactory results. 
