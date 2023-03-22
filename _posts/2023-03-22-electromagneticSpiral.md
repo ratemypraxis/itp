@@ -7,7 +7,7 @@ tags: ml-for-web
 ---
 <h3>Making use of Runway's AI Magic Tools to generate a short video art film. </h3>
 
-https://user-images.githubusercontent.com/49932341/227036037-dc29c8fb-ea5d-4578-ae5c-85aad98ef783.mp4
+![227036037-dc29c8fb-ea5d-4578-ae5c-85aad98ef783_AdobeExpress](https://user-images.githubusercontent.com/49932341/227050295-b18d368f-9f16-4b23-ac49-df79dd2453a9.gif)
 
 <h4>Workflow</h4>
 
