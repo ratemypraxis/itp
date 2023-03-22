@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-03-22T20:47:59+00:00</updated>
+ <updated>2023-03-22T20:53:10+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -24,9 +24,17 @@
 &lt;h4&gt;Workflow&lt;/h4&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;I started generating an image with text to image an a prompt that read “electromagnetic field”&lt;/li&gt;
+  &lt;li&gt;I started generating an image with text to image an a prompt that read “electromagnetic field”
+&lt;img src=&quot;https://user-images.githubusercontent.com/49932341/227034584-6d1f25e7-cb11-44c8-85bf-681851a04e9a.jpg&quot; alt=&quot;9e0dcc5e-6cc6-41fc-8f8e-d2e4a5bc3f4e jpg&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;Then I sent that image to the image variations tool which I ran a few times before landing on an image that spoke to me.&lt;/li&gt;
-  &lt;li&gt;From there ran Erase and Replace on one of the variations several times to create a few frames of the image transforming into a spriral&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Image Variation 1       |  Image Variation 2
+:————————-:|:————————-:
+&lt;img src=&quot;https://user-images.githubusercontent.com/49932341/227034880-d6ad72bc-bc91-4924-8820-559d71179ddb.jpg&quot; alt=&quot;Runway 2023-03-22T19 47 00 561Z Image Variation jpg&quot; /&gt; &lt;img src=&quot;https://user-images.githubusercontent.com/49932341/227035063-ef00a24e-75da-4070-8d32-d2f311b20efd.jpg&quot; alt=&quot;Runway 2023-03-22T19 44 45 977Z Image Variation jpg&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;From there ran Erase and Replace on one of the variations several times to create a few frames of the image transforming into a spriral&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;I then ran image variation again before dragging about 15 frames into Frame Interpolation to create a short video.&lt;/li&gt;
 &lt;/ol&gt;
 
