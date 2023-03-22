@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-03-22T20:12:26+00:00</updated>
+ <updated>2023-03-22T20:36:34+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -317,6 +317,23 @@ screwed in two screws. I do not like how it looks and the edges are too sharp.
 
 &lt;p&gt;Find the program at &lt;a href=&quot;https://www.2nd.systems/itp/projects/flashlight&quot;&gt;this link&lt;/a&gt;&lt;/p&gt;
 
+&lt;h4&gt;Workflow&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;I started generating an image with text to image an a prompt that read “electromagnetic field”&lt;/li&gt;
+  &lt;li&gt;Then I sent that image to the image variations tool which I ran a few times before landing on an image that spoke to me.&lt;/li&gt;
+  &lt;li&gt;From there ran Erase and Replace on one of the variations several times to create a few frames of the image transforming into a spriral&lt;/li&gt;
+  &lt;li&gt;I then ran image variation again before dragging about 15 frames into Frame Interpolation to create a short video.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4&gt;Describe the results of working with the tool, do they match your expectations?&lt;/h4&gt;
+
+&lt;h4&gt;Can you &quot;break&quot; the tool? In other words, use it in a way that it was intended for and what kinds of results do you get?&lt;/h4&gt;
+&lt;h4&gt;Can you find any pro tips in terms of prompt engineering?&lt;/h4&gt;
+&lt;h4&gt;Can you change your prompt to make the generated results better?&lt;/h4&gt;
+&lt;h4&gt;You can also pick one image from lexica as a start point.&lt;/h4&gt;
+
+&lt;h4&gt;Compare and contrast working with Runway as a tool for machine learning as related to ml5.js, python, and any other tools explored this semester.&lt;/h4&gt;
 </content>
  </entry>
  
