@@ -12,9 +12,15 @@ tags: ml-for-web
 <h4>Workflow</h4>
 
 1. I started generating an image with text to image an a prompt that read "electromagnetic field"
-2. Then I sent that image to the image variations tool which I ran a few times before landing on an image that spoke to me.
-3. From there ran Erase and Replace on one of the variations several times to create a few frames of the image transforming into a spriral
-4. I then ran image variation again before dragging about 15 frames into Frame Interpolation to create a short video.
+![9e0dcc5e-6cc6-41fc-8f8e-d2e4a5bc3f4e jpg](https://user-images.githubusercontent.com/49932341/227034584-6d1f25e7-cb11-44c8-85bf-681851a04e9a.jpg)
+3. Then I sent that image to the image variations tool which I ran a few times before landing on an image that spoke to me.
+4. Image Variation 1       |  Image Variation 2
+:-------------------------:|:-------------------------:
+![Runway 2023-03-22T19 47 00 561Z Image Variation jpg](https://user-images.githubusercontent.com/49932341/227034880-d6ad72bc-bc91-4924-8820-559d71179ddb.jpg) ![Runway 2023-03-22T19 44 45 977Z Image Variation jpg](https://user-images.githubusercontent.com/49932341/227035063-ef00a24e-75da-4070-8d32-d2f311b20efd.jpg)
+
+5. From there ran Erase and Replace on one of the variations several times to create a few frames of the image transforming into a spriral
+
+7. I then ran image variation again before dragging about 15 frames into Frame Interpolation to create a short video.
 
 <h4>Describe the results of working with the tool, do they match your expectations?</h4>
 I believe the result is a pretty simple video with a slight computer graphics look and a strong AI generated look. I expected the Frame Interpolation to be more intelligent in creating an organic transistion between frames but it seems to just be a morph transition tool more than anything else. The text to image generations met my expectations in creating images that brought me joy in relation to my unrealistic prompts. 
