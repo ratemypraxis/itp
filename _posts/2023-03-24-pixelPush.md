@@ -14,6 +14,7 @@ tags: stem-accessibility
 ![](https://user-images.githubusercontent.com/49932341/227573458-471ff122-51cd-49ba-aa24-e16602f116ba.jpg)
 ![](https://user-images.githubusercontent.com/49932341/227573485-99a52c30-0646-44f5-8c3a-9aeff3d2561f.jpg)
 
+ ![](https://raw.githubusercontent.com/ratemypraxis/itp/master/media/pixelPress1.jpg)  |  ![](https://raw.githubusercontent.com/ratemypraxis/itp/master/media/pixelPress2.jpg)
 
 <h2> Field Notes </h2>
 
