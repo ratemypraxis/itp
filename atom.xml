@@ -4,13 +4,58 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-03-22T22:14:17+00:00</updated>
+ <updated>2023-03-24T15:56:44+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
    <email>sh4712@nyu.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>Pixel Push [Stem Accessibility]</title>
+   <link href="/itp/2023/03/24/pixelpush"/>
+   <updated>2023-03-24T00:00:00+00:00</updated>
+   <id>/2023/03/24/pixelPush</id>
+   <content type="html">&lt;h1&gt;Midterm Evaluation: Pixel Press&lt;/h1&gt;
+
+&lt;embed src=&quot;https://drive.google.com/file/d/1PO5e9zsJSHz-sbjmYFwNcctKwdOF2cX4/view&quot; /&gt;
+
+&lt;h2&gt; Documentation &lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/49932341/227573458-471ff122-51cd-49ba-aa24-e16602f116ba.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/49932341/227573485-99a52c30-0646-44f5-8c3a-9aeff3d2561f.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt; Field Notes &lt;/h2&gt;
+
+&lt;p&gt;Early Morning Test:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Pre-user testing enjoyment of bright lights emitted by project.&lt;/li&gt;
+  &lt;li&gt;Brief initial excitement at the action of pushing.&lt;/li&gt;
+  &lt;li&gt;Quickly bored and frustrated by limiation of color.&lt;/li&gt;
+  &lt;li&gt;Previous understanding of screen/pixel loading&lt;/li&gt;
+  &lt;li&gt;More interested in filling in grid squares on paper surrounding toy with color pencils (less limiting space).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Afternoon Test:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Understood how to begin interaction/play with toy.&lt;/li&gt;
+  &lt;li&gt;Interested in playing with project freely (changing all squares to one color).&lt;/li&gt;
+  &lt;li&gt;Showed understanding of pixel positioning through combination of play and discussion.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Other tests:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A few adults expressed interest in playing with a similar toy at a much smaller scale in a sort of fidget toy style.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt; Evaluation &lt;/h2&gt;
+
+&lt;p&gt;The combination of observations from the two user tests leads me to believe that while the physical apparance of the toy itself is attention grabbing, we 
+could serve to improve it’s context in an educational space. Testers seemed to enjoy interacting with the toy for some time in a playful or meditative 
+way but the point we hoped to communicate of indicating that each pixel has a specific place on a screen needs to be re-worked into the design of the toy and its contexts.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Electromagnetic Spiral film [ML for the Web]</title>
