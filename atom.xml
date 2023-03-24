@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-03-24T15:58:59+00:00</updated>
+ <updated>2023-03-24T16:01:26+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -24,6 +24,15 @@
 &lt;h2&gt; Documentation &lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/49932341/227573458-471ff122-51cd-49ba-aa24-e16602f116ba.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img src=&quot;https://user-images.githubusercontent.com/49932341/227573485-99a52c30-0646-44f5-8c3a-9aeff3d2561f.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/pixelPress1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/pixelPress2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h2&gt; Field Notes &lt;/h2&gt;
 
