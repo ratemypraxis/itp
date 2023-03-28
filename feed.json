@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "/itp/2023/03/28/apifun",
+            "title": "Voice to Temperature [Intangible Interaction]",
+            "summary": null,
+            "content_text": "Voice to Temperature DataAfter many an hours struggle with the Status Code: -2 on the arduino I moved on from previous ideas and began playing with APIs in p5. First I attempted to make use of the MTA Bus Time API to create a program that controlled the colors of an LED strip in my room to signal to me how many stops away my bus was, but I learned shortly after that my bus route is not supported. I was able to get info from another line though which was cool to see. I then experimented with the MTA Subwa API to try and create a similar app for my train Line but for whatever reason all train lines returned a “forbidden” code in the API.I then attempted to play with some world time APIs to create a program which allowed used to get time data by speaking a city and country name but couldn’t get very comfortable with any of the APIs let alone combine them with p5 speech.In the end I created this simple program which makes use of the weather API we worked with in class to allow a user to speak a city and state name and recieve temperature data (and simple color visualization) for that place.Looking Towards Open CallPassion Keywords:  Fluidity  Play  Education",
+            "content_html": "<h1>Voice to Temperature Data</h1><p>After many an hours struggle with the Status Code: -2 on the arduino I moved on from previous ideas and began playing with APIs in p5. First I attempted to make use of the MTA Bus Time API to create a program that controlled the colors of an LED strip in my room to signal to me how many stops away my bus was, but I learned shortly after that my bus route is not supported. I was able to get info from another line though which was cool to see. I then experimented with the MTA Subwa API to try and create a similar app for my train Line but for whatever reason all train lines returned a “forbidden” code in the API.I then attempted to play with some world time APIs to create a program which allowed used to get time data by speaking a city and country name but couldn’t get very comfortable with any of the APIs let alone combine them with p5 speech.</p><p>In the end I created this simple program which makes use of the weather API we worked with in class to allow a user to speak a city and state name and recieve temperature data (and simple color visualization) for that place.</p><embed src=\"https://rr5---sn-ab5sznzz.c.drive.google.com/videoplayback?expire=1680013256&amp;ei=iL8iZPSdBc26hgbc0JfwDQ&amp;ip=2603:7000:1300:28b:dab8:e550:e44d:10e9&amp;cp=QVRNUkFfUlJTR1hPOjVqbE9xMGw5cVczcjlDb1VqRnVDRl8xMU96UENUT0VyM3RUdzUzbUhSc3A&amp;id=62ed7c92fd3c36e3&amp;itag=22&amp;source=webdrive&amp;requiressl=yes&amp;mh=ll&amp;mm=32&amp;mn=sn-ab5sznzz&amp;ms=su&amp;mv=m&amp;mvi=5&amp;pl=36&amp;sc=yes&amp;ttl=transient&amp;susc=dr&amp;driveid=1orMGKbz4xRtBtxz_FMIEh9-kmvJWcV17&amp;app=explorer&amp;mime=video/mp4&amp;vprv=1&amp;prv=1&amp;dur=25.054&amp;lmt=1679998825969325&amp;mt=1679998363&amp;subapp=DRIVE_WEB_FILE_VIEWER&amp;txp=0016224&amp;sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&amp;sig=AOq0QJ8wRgIhAKwjJoIbHZnc_S15joYzF72J0CrN5CY2UHIO-OWssB3lAiEAu25ye_mt-w2813CXHDcttnrmDb0cFm2SmwsRfcOGPbE=&amp;lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&amp;lsig=AG3C_xAwRAIgLVe6FZs_2lrhBcgVOP58K2UftIP3_LST1BwutA_0QoICIDuPw3-6ivgcx2Dv9k5wxVYEVmTws3RKHXaNrcXmeylt&amp;cpn=ZrE-WYSct7y6dDTF&amp;c=WEB_EMBEDDED_PLAYER&amp;cver=1.20230321.00.00\" width=\"640\" height=\"480\" /><p><img src=\"https://editor.p5js.org/hafferty/full/LnN109Ik7\" alt=\"Click here to text the sketch\" /></p><h2>Looking Towards Open Call</h2><p>Passion Keywords:</p><ol>  <li>Fluidity</li>  <li>Play</li>  <li>Education</li></ol>",
+            "url": "/itp/2023/03/28/apifun",
+            
+            
+            
+            
+            
+            "date_published": "2023-03-28T00:00:00+00:00",
+            "date_modified": "2023-03-28T00:00:00+00:00",
+            
+                "author":  {
+                "name": "sim",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "/itp/2023/03/24/pixelpush",
             "title": "Pixel Push [Stem Accessibility]",
             "summary": null,

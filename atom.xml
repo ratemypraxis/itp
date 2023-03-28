@@ -4,13 +4,41 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-03-24T16:10:06+00:00</updated>
+ <updated>2023-03-28T10:25:01+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
    <email>sh4712@nyu.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>Voice to Temperature [Intangible Interaction]</title>
+   <link href="/itp/2023/03/28/apifun"/>
+   <updated>2023-03-28T00:00:00+00:00</updated>
+   <id>/2023/03/28/apiFun</id>
+   <content type="html">&lt;h1&gt;Voice to Temperature Data&lt;/h1&gt;
+
+&lt;p&gt;After many an hours struggle with the Status Code: -2 on the arduino I moved on from previous ideas and began playing with APIs in p5. First I attempted to make use of the MTA Bus Time API to create a program that controlled the colors of an LED strip in my room to signal to me how many stops away my bus was, but I learned shortly after that my bus route is not supported. I was able to get info from another line though which was cool to see. I then experimented with the MTA Subwa API to try and create a similar app for my train Line but for whatever reason all train lines returned a “forbidden” code in the API.
+I then attempted to play with some world time APIs to create a program which allowed used to get time data by speaking a city and country name but couldn’t get very comfortable with any of the APIs let alone combine them with p5 speech.&lt;/p&gt;
+
+&lt;p&gt;In the end I created this simple program which makes use of the weather API we worked with in class to allow a user to speak a city and state name and recieve temperature data (and simple color visualization) for that place.&lt;/p&gt;
+
+&lt;embed src=&quot;https://rr5---sn-ab5sznzz.c.drive.google.com/videoplayback?expire=1680013256&amp;amp;ei=iL8iZPSdBc26hgbc0JfwDQ&amp;amp;ip=2603:7000:1300:28b:dab8:e550:e44d:10e9&amp;amp;cp=QVRNUkFfUlJTR1hPOjVqbE9xMGw5cVczcjlDb1VqRnVDRl8xMU96UENUT0VyM3RUdzUzbUhSc3A&amp;amp;id=62ed7c92fd3c36e3&amp;amp;itag=22&amp;amp;source=webdrive&amp;amp;requiressl=yes&amp;amp;mh=ll&amp;amp;mm=32&amp;amp;mn=sn-ab5sznzz&amp;amp;ms=su&amp;amp;mv=m&amp;amp;mvi=5&amp;amp;pl=36&amp;amp;sc=yes&amp;amp;ttl=transient&amp;amp;susc=dr&amp;amp;driveid=1orMGKbz4xRtBtxz_FMIEh9-kmvJWcV17&amp;amp;app=explorer&amp;amp;mime=video/mp4&amp;amp;vprv=1&amp;amp;prv=1&amp;amp;dur=25.054&amp;amp;lmt=1679998825969325&amp;amp;mt=1679998363&amp;amp;subapp=DRIVE_WEB_FILE_VIEWER&amp;amp;txp=0016224&amp;amp;sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&amp;amp;sig=AOq0QJ8wRgIhAKwjJoIbHZnc_S15joYzF72J0CrN5CY2UHIO-OWssB3lAiEAu25ye_mt-w2813CXHDcttnrmDb0cFm2SmwsRfcOGPbE=&amp;amp;lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&amp;amp;lsig=AG3C_xAwRAIgLVe6FZs_2lrhBcgVOP58K2UftIP3_LST1BwutA_0QoICIDuPw3-6ivgcx2Dv9k5wxVYEVmTws3RKHXaNrcXmeylt&amp;amp;cpn=ZrE-WYSct7y6dDTF&amp;amp;c=WEB_EMBEDDED_PLAYER&amp;amp;cver=1.20230321.00.00&quot; width=&quot;640&quot; height=&quot;480&quot; /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://editor.p5js.org/hafferty/full/LnN109Ik7&quot; alt=&quot;Click here to text the sketch&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Looking Towards Open Call&lt;/h2&gt;
+
+&lt;p&gt;Passion Keywords:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Fluidity&lt;/li&gt;
+  &lt;li&gt;Play&lt;/li&gt;
+  &lt;li&gt;Education&lt;/li&gt;
+&lt;/ol&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Pixel Push [Stem Accessibility]</title>
