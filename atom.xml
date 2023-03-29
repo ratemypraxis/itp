@@ -4,13 +4,36 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-03-29T20:47:22+00:00</updated>
+ <updated>2023-03-29T20:53:41+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
    <email>sh4712@nyu.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>Reality 2 Pixel [ML for the Web]</title>
+   <link href="/itp/2023/03/29/pixel2pixel"/>
+   <updated>2023-03-29T00:00:00+00:00</updated>
+   <id>/2023/03/29/pixel2pixel</id>
+   <content type="html">&lt;h2&gt;Making use of Runway&apos;s Gen-1 to swap styles between photorealism and pixel art. &lt;/h2&gt;
+
+&lt;p&gt;After a few extremley cursed attempts at adding photorealist styling to some pixel art videos I made, I swapped the prompt into creating pixel art out of real life footage. Below are assets from my favorite attempt.&lt;/p&gt;
+
+&lt;h3&gt; Source Video &lt;/h3&gt;
+
+&lt;embed src=&quot;https://runway-datasets.s3.amazonaws.com/datasets/ffe380dd-6022-47ae-9098-062363728f21.mp4&quot; width=&quot;640&quot; height=&quot;480&quot; /&gt;
+
+&lt;h3&gt; Style Reference Image &lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://runway-datasets.s3.amazonaws.com/datasets/5c031b0b-c6b3-42db-8c2f-f8371534c411.jpg&quot; alt=&quot;pixel art rendition of a city&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt; Output &lt;/h3&gt;
+&lt;embed src=&quot;https://runway-task-artifacts.s3.amazonaws.com/65283d49-36a6-4b79-9123-cea7507a7e1f.mp4&quot; width=&quot;640&quot; height=&quot;480&quot; /&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Voice to Temperature [Intangible Interaction]</title>
