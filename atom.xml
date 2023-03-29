@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-03-29T19:52:54+00:00</updated>
+ <updated>2023-03-29T20:47:22+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -24,7 +24,7 @@ I then attempted to play with some world time APIs to create a program which all
 
 &lt;p&gt;In the end I created this simple program which makes use of the weather API we worked with in class to allow a user to speak a city and state name and recieve temperature data (and simple color visualization) for that place.&lt;/p&gt;
 
-&lt;embed src=&quot;https://drive.google.com/file/d/1ouv3OKEQ2iZt4mkI3fwNi6sbHzJk18_N/view&quot; width=&quot;640&quot; height=&quot;480&quot; /&gt;
+&lt;embed src=&quot;https://drive.google.com/file/d/1orMGKbz4xRtBtxz_FMIEh9-kmvJWcV17/view&quot; width=&quot;640&quot; height=&quot;480&quot; /&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://editor.p5js.org/hafferty/full/LnN109Ik7&quot;&gt; Click here to test out the sketch&lt;/a&gt;&lt;/p&gt;
 
