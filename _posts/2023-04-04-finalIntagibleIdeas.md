@@ -30,3 +30,5 @@ Moodboard:
 
 <h2>Other Ideas</h2>
 ![](https://raw.githubusercontent.com/ratemypraxis/itp/master/media/windowSketch.jpg) | ![](https://raw.githubusercontent.com/ratemypraxis/itp/master/media/lcdSketch.jpg)
+
+<a href="https://www.newglasstech.com/?page=product&cat=Specialities&product=lcd-privacy&lang=en">LCD Glass Switching</a>
