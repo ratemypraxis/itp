@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-04-04T13:54:09+00:00</updated>
+ <updated>2023-04-04T13:56:59+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -18,8 +18,6 @@
    <updated>2023-04-04T00:00:00+00:00</updated>
    <id>/2023/04/04/finalIntagibleIdeas</id>
    <content type="html">&lt;h1&gt; Final Project Ideas &lt;/h1&gt;
-&lt;embed src=&quot;https://drive.google.com/file/d/1orMGKbz4xRtBtxz_FMIEh9-kmvJWcV17/view&quot; width=&quot;640&quot; height=&quot;480&quot; /&gt;
-
 &lt;h2&gt; What Time Is It There? &lt;/h2&gt;
 &lt;p&gt;A speech-controlled clock and installation which makes use of the &lt;a href=&quot;https://worldtimeapi.org/&quot;&gt;World Time API&lt;/a&gt; to allow users to recieve what time it is in any part of the world. In the installation concext the piece is situated in a room outfitted with smart RGB lightbulbs and a speaker system which outputs abstract simulations of the feel of the given time.
 &lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/timeSketch.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
