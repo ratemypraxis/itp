@@ -8,7 +8,6 @@ tags: intangible-interaction
 minute: 1
 ---
 <h1> Final Project Ideas </h1>
-<embed src="https://drive.google.com/file/d/1orMGKbz4xRtBtxz_FMIEh9-kmvJWcV17/view" width="640" height="480">
 <h2> What Time Is It There? </h2>
 A speech-controlled clock and installation which makes use of the <a href="https://worldtimeapi.org/">World Time API</a> to allow users to recieve what time it is in any part of the world. In the installation concext the piece is situated in a room outfitted with smart RGB lightbulbs and a speaker system which outputs abstract simulations of the feel of the given time.
 ![](https://raw.githubusercontent.com/ratemypraxis/itp/master/media/timeSketch.jpg)
