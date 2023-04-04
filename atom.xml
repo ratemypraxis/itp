@@ -4,13 +4,47 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-04-04T12:49:28+00:00</updated>
+ <updated>2023-04-04T12:55:02+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
    <email>sh4712@nyu.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>Final Ideas [Intangible Interaction]</title>
+   <link href="/itp/2023/04/04/finalintagibleideas"/>
+   <updated>2023-04-04T00:00:00+00:00</updated>
+   <id>/2023/04/04/finalIntagibleIdeas</id>
+   <content type="html">&lt;h1&gt; Final Project Ideas &lt;/h1&gt;
+&lt;embed src=&quot;https://drive.google.com/file/d/1orMGKbz4xRtBtxz_FMIEh9-kmvJWcV17/view&quot; width=&quot;640&quot; height=&quot;480&quot; /&gt;
+
+&lt;h2&gt; What Time Is It There? &lt;/h2&gt;
+&lt;p&gt;A speech-controlled clock and installation which makes use of the &lt;a href=&quot;https://worldtimeapi.org/&quot;&gt;World Time API&lt;/a&gt; to allow users to recieve what time it is in any part of the world. In the installation concext the piece is situated in a room outfitted with smart RGB lightbulbs and a speaker system which outputs abstract simulations of the feel of the given time.
+&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/timeSketch.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Materials:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Stepper Motor(s)&lt;/li&gt;
+  &lt;li&gt;Arduino Nano 33 IOT&lt;/li&gt;
+  &lt;li&gt;Laser cut wood (clock fabrication)&lt;/li&gt;
+  &lt;li&gt;World Time API&lt;/li&gt;
+  &lt;li&gt;p5.Speech or other speech recognition technology&lt;/li&gt;
+  &lt;li&gt;Phillips Hue (maybe)&lt;/li&gt;
+  &lt;li&gt;Bluetooth speakers (maybe)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Earlier prototyping of similar technology (Voice 2 Servo):&lt;/p&gt;
+&lt;embed src=&quot;https://file.notion.so/f/s/89b7ea76-afd2-4293-9ffa-bfb2aa7f0bcb/servoSpeech1.mp4?id=307b73da-9352-4654-856e-4c799a65b1f4&amp;amp;table=block&amp;amp;spaceId=ea1b9eba-3e00-4e51-a314-65ee5a018a42&amp;amp;expirationTimestamp=1680698953709&amp;amp;signature=T_sBTIR3IbyVaKgl4tDVGpj97-r2uRWry0sLmZC5e-c&amp;amp;downloadName=servoSpeech1.mp4&quot; width=&quot;640&quot; height=&quot;480&quot; /&gt;
+
+&lt;p&gt;Moodboard:
+&lt;img src=&quot;https://freesvg.org/img/earth_mir.png&quot; alt=&quot;&quot; /&gt; | &lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/mygreenface.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Other Ideas&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/windowSketch.jpg&quot; alt=&quot;&quot; /&gt; | &lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/lcdSketch.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Reality 2 Pixel [ML for the Web]</title>
