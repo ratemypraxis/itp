@@ -7,9 +7,6 @@ tags: ml-for-web
 ---
 <h2>Making a "Personality Quiz" with the Chat GPT API</h2>
 
-
-<h3> Source Video </h3>
-
 <iframe src="https://editor.p5js.org/hafferty/full/W38Hh2XUS" width=100% height=700px>
 </iframe>
 
