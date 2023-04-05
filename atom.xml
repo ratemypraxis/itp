@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-04-05T20:17:01+00:00</updated>
+ <updated>2023-04-05T20:20:39+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -19,8 +19,7 @@
    <id>/2023/04/05/gptPersonalityQuiz</id>
    <content type="html">&lt;h2&gt;Making a &quot;Personality Quiz&quot; with the Chat GPT API&lt;/h2&gt;
 
-&lt;p&gt;&amp;lt;iframe src=”https://editor.p5js.org/hafferty/full/W38Hh2XUS” width=100% height=700px&amp;gt;
-&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+&lt;embed src=&quot;https://editor.p5js.org/hafferty/full/W38Hh2XUS&quot; width=&quot;100%&quot; height=&quot;700px&quot; /&gt;
 
 &lt;p&gt;Find the &lt;a href=&quot;https://editor.p5js.org/hafferty/sketches/W38Hh2XUS&quot;&gt;code linked here.&lt;/a&gt; 
 Find a &lt;a href=&quot;https://editor.p5js.org/hafferty/full/W38Hh2XUS&quot;&gt;full-screen version linked here.&lt;/a&gt;&lt;/p&gt;
