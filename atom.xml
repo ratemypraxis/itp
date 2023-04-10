@@ -4,13 +4,243 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-04-05T20:38:10+00:00</updated>
+ <updated>2023-04-10T16:30:41+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
    <email>sh4712@nyu.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>Tag [Live Web]</title>
+   <link href="/itp/2023/04/10/tag"/>
+   <updated>2023-04-10T00:00:00+00:00</updated>
+   <id>/2023/04/10/tag</id>
+   <content type="html">&lt;h1&gt;Building Cursor Tag&lt;/h1&gt;
+
+&lt;p&gt;server side attempt (js)&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// We need the file system here
+var fs = require(&apos;fs&apos;);
+				
+// Express is a node module for building HTTP servers
+var express = require(&apos;express&apos;);
+var app = express();
+
+// Tell Express to look in the &quot;public&quot; folder for any files first
+app.use(express.static(&apos;public&apos;));
+
+// If the user just goes to the &quot;route&quot; / then run this function
+app.get(&apos;/&apos;, function (req, res) {
+  res.send(&apos;Hello World!&apos;)
+});
+
+// In this case, HTTPS (secure) server
+var https = require(&apos;https&apos;);
+
+// Security options - key and certificate
+var options = {
+  key: fs.readFileSync(&apos;privkey1.pem&apos;),
+  cert: fs.readFileSync(&apos;cert1.pem&apos;)
+};
+
+// We pass in the Express object and the options object
+var httpServer = https.createServer(options, app);
+
+// Default HTTPS port
+httpServer.listen(443);
+
+// WebSocket Portion
+// WebSockets work with the HTTP server
+// Using Socket.io
+const { Server } = require(&apos;socket.io&apos;);
+const io = new Server(httpServer, {});
+
+
+// Object to store the current state of the game
+const gameState = {
+    users: {}, // A dictionary to store each user&apos;s information
+    it: null, // The user who is currently &quot;it&quot;
+  };
+
+// Register a callback function to run when we have an individual connection
+// This is run for each individual user that connects
+
+// Handle Socket.io connections
+io.on(&apos;connection&apos;, (socket) =&amp;gt; {
+    // Send a prompt to the user to enter their username
+    socket.emit(&apos;prompt&apos;);
+  
+    // Handle incoming messages from the client
+    socket.on(&apos;message&apos;, (message) =&amp;gt; {
+      const data = JSON.parse(message);
+      switch (data.type) {
+        // When a user enters their username, add them to the gameState
+        case &apos;username&apos;:
+          const newUser = {
+            username: data.username,
+            color: &apos;blue&apos;,
+            x: 0,
+            y: 0,
+          };
+          gameState.users[socket.id] = newUser;
+          broadcastGameState();
+          break;
+  
+        // When a user moves their cursor, update their position and broadcast the new state
+        case &apos;position&apos;:
+          const user = gameState.users[socket.id];
+          user.x = data.x;
+          user.y = data.y;
+          broadcastGameState();
+          break;
+  
+        // When a user clicks the &quot;who&apos;s it?&quot; button, update the gameState
+        case &apos;click&apos;:
+          gameState.it = socket.id;
+          updateCursorColors();
+          broadcastGameState();
+          break;
+      }
+    });
+  
+    // Handle Socket.io disconnections
+    socket.on(&apos;disconnect&apos;, () =&amp;gt; {
+      delete gameState.users[socket.id];
+      broadcastGameState();
+    });
+  });
+  
+  // Broadcast the current gameState to all connected clients
+  function broadcastGameState() {
+    io.emit(&apos;gameState&apos;, gameState);
+  }
+  
+  // Update the cursor colors based on the current gameState
+  function updateCursorColors() {
+    const it = gameState.it;
+    const users = gameState.users;
+    for (const socketId in users) {
+      const user = users[socketId];
+      if (socketId === it) {
+        user.color = &apos;red&apos;;
+      } else {
+        user.color = &apos;blue&apos;;
+      }
+    }
+  }
+  
+  // // Start the server
+  // server.listen(3000, () =&amp;gt; {
+  //   console.log(&apos;Server listening on port 3000&apos;);
+  // });
+
+// io.on(&apos;connection&apos;, 
+// 	// We are given a websocket object in our function
+// 	function (socket) {
+// 	  // Send a prompt to the user to enter their username
+//       socket.emit(&apos;prompt&apos;);
+
+// 		console.log(&quot;We have a new client: &quot; + socket.id);
+		
+// 		// When this user emits, client side: socket.emit(&apos;otherevent&apos;,some data);
+// 		socket.on(&apos;chatmessage&apos;, function(data) {
+// 			// Data comes in as whatever was sent, including objects
+// 			console.log(&quot;Received: &apos;chatmessage&apos; &quot; + data);
+			
+// 			// Send it to all of the clients
+// 			socket.broadcast.emit(&apos;chatmessage&apos;, data);
+// 		});
+		
+// 		socket.on(&apos;disconnect&apos;, function() {
+// 			console.log(&quot;Client has disconnected &quot; + socket.id);
+// 		});
+// 	}
+// );
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Client side code (html w inline css + script):&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;html&amp;gt;
+	&amp;lt;head&amp;gt;
+		&amp;lt;script type=&quot;text/javascript&quot; src=&quot;/socket.io/socket.io.js&quot;&amp;gt;&amp;lt;/script&amp;gt;
+		&amp;lt;script type=&quot;text/javascript&quot;&amp;gt;
+		
+			var socket = io.connect();
+            var canvas = document.getElementById(&quot;myCanvas&quot;);
+var ctx = canvas.getContext(&quot;2d&quot;);
+
+			
+			socket.on(&apos;connect&apos;, function() {
+				console.log(&quot;Connected&quot;);
+			});
+
+  // Handle the &apos;prompt&apos; event by displaying a prompt to the user to enter their username
+  socket.on(&apos;prompt&apos;, () =&amp;gt; {
+    const username = prompt(&apos;Please enter your username:&apos;);
+    socket.emit(&apos;message&apos;, JSON.stringify({ type: &apos;username&apos;, username }));
+  });
+  
+  socket.on(&apos;gameState&apos;, function(data) {
+  // Parse the data received from the server
+  var gameState = JSON.parse(data);
+
+  // Clear the canvas
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+  // Draw the game state on the canvas
+  // For example, draw a circle at position (x, y) with radius r:
+  ctx.beginPath();
+  ctx.arc(gameState.x, gameState.y, gameState.r, 0, 2 * Math.PI);
+  ctx.fillStyle = &apos;red&apos;;
+  ctx.fill();
+});
+
+  
+  // Add event listeners to update the server when the user moves their cursor or clicks the &quot;who&apos;s it?&quot; button
+  // (e.g. using jQuery to listen for mousemove and click events)
+  $(document).on(&apos;mousemove&apos;, (event) =&amp;gt; {
+    const { pageX: x, pageY: y } = event;
+    socket.emit(&apos;message&apos;, JSON.stringify({ type: &apos;position&apos;, x, y }));
+  });
+  
+  $(&apos;#who-is-it-button&apos;).on(&apos;click&apos;, () =&amp;gt; {
+    socket.emit(&apos;message&apos;, JSON.stringify({ type: &apos;click&apos; }));
+  })
+
+canvas.addEventListener(&apos;mousemove&apos;, function(event) {
+  var x = event.clientX;
+  var y = event.clientY;
+  socket.emit(&apos;message&apos;, JSON.stringify({type: &apos;position&apos;, x: x, y: y}));
+});
+
+	
+		&amp;lt;/script&amp;gt;	
+      &amp;lt;style&amp;gt;
+        canvas {
+           position:absolute;
+           top:0;
+           left:0;
+          right:0;
+           width:100%;
+           height:100%;
+           z-index:-1;
+        }
+    
+    body{
+      text-align: center;
+    }
+  &amp;lt;/style&amp;gt;
+	&amp;lt;/head&amp;gt;
+ &amp;lt;body&amp;gt;
+    &amp;lt;canvas id=&quot;myCanvas&quot;&amp;gt;&amp;lt;/canvas&amp;gt;
+
+ &amp;lt;input type=&quot;text&quot; id=&quot;message&quot; name=&quot;message&quot;&amp;gt;
+ &amp;lt;input type=&quot;submit&quot; value=&quot;submit&quot; onclick=&quot;sendmessage(document.getElementById(&apos;message&apos;).value);&quot;&amp;gt;
+ &amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+ </entry>
  
  <entry>
    <title>GPT Personality Quiz [ML for the Web]</title>
