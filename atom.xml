@@ -4,13 +4,52 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-04-17T15:19:31+00:00</updated>
+ <updated>2023-04-17T15:20:26+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
    <email>sh4712@nyu.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>Final Proposals [Live Web]</title>
+   <link href="/itp/2023/04/17/livefinals"/>
+   <updated>2023-04-17T00:00:00+00:00</updated>
+   <id>/2023/04/17/liveFinals</id>
+   <content type="html">&lt;h1&gt; Idea 1: Grey Area Intelligence &lt;/h1&gt;
+
+&lt;p&gt;An idea for the final for both Machine Learning for the Web and Live Web.&lt;/p&gt;
+
+&lt;p&gt;Based on a previous assignment for ML4TW (&lt;a href=&quot;https://www.2nd.systems/itp/projects/teachingEarth&quot;&gt;linked here&lt;/a&gt;) in which a lone user is prompted to provide images of specific emotional phenomena (or otherwise gray area identifications of the physical world) through webcam input making use of ml5.js classification tools. In the final adaptation of this idea I’d like to make use of websockets and a storage system like firebase to allow multiple users to contribute images to each category and build a collectivley trained gray area image recognition algorithm.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/training.jpg&quot; alt=&quot;screencap of a webpage featuring webcam feed of a person appearing frightened.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/trainingSwag.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1&gt; Idea 2: Archival Escape Room &lt;/h1&gt;
+
+&lt;p&gt;A joint idea for the final for Intangible Interaction &amp;amp; Live Web in collaboration with Aliza H.&lt;/p&gt;
+
+&lt;p&gt;A room with 4 podiums with empty display cases. Upon entry of the physical space, a physical interacter recieves a walkie talkie like device with headphones. Through this device they can communicate with an online user who views their movement throughout their space in a pixelized render. The online user can communicate to the IRL user through text chat which is then translated to TTS before being saved as an mp3 and sent for playback on the walkie device. The IRL user communicates to the online user through VOIP. In the physical space are cluse which the physical user can choose to share with the online user to enable them control of hidden motors and sensors in the space to reveal secret artifacts.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/dataLink.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/irlView.jpg&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/virtualView.jpg&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tag [Live Web]</title>
