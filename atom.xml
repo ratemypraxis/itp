@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-04-19T23:20:40+00:00</updated>
+ <updated>2023-04-19T23:26:11+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -18,7 +18,7 @@
    <updated>2023-04-18T00:00:00+00:00</updated>
    <id>/2023/04/18/ml4wFinal</id>
    <content type="html">&lt;h1&gt; Final Project Ideas &lt;/h1&gt;
-&lt;h2&gt; What Time Is It There? &lt;/h2&gt;
+&lt;h2&gt; Idea 1: What Time Is It There? &lt;/h2&gt;
 &lt;p&gt;A speech-controlled clock and installation which makes use of the &lt;a href=&quot;https://worldtimeapi.org/&quot;&gt;World Time API&lt;/a&gt; to allow users to recieve what time it is in any part of the world. In the installation concext the piece is situated in a room outfitted with smart RGB lightbulbs and a speaker system which outputs abstract simulations of the feel of the given time.
 &lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/timeSketch.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -28,14 +28,28 @@
   &lt;li&gt;Arduino Nano 33 IOT&lt;/li&gt;
   &lt;li&gt;Laser cut wood (clock fabrication)&lt;/li&gt;
   &lt;li&gt;World Time API&lt;/li&gt;
-  &lt;li&gt;p5.Speech or other speech recognition technology&lt;/li&gt;
+  &lt;li&gt;p5.Speech or other speech recognition technology (&lt;a href=&quot;https://store-usa.arduino.cc/products/speech-recognition-engine&quot;&gt;Arduino Speech Recognition Engine&lt;/a&gt;?)&lt;/li&gt;
   &lt;li&gt;Phillips Hue (maybe)&lt;/li&gt;
   &lt;li&gt;Bluetooth speakers (maybe)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Earlier prototyping of similar technology (Voice 2 Servo):&lt;/p&gt;
-&lt;embed src=&quot;https://file.notion.so/f/s/89b7ea76-afd2-4293-9ffa-bfb2aa7f0bcb/servoSpeech1.mp4?id=307b73da-9352-4654-856e-4c799a65b1f4&amp;amp;table=block&amp;amp;spaceId=ea1b9eba-3e00-4e51-a314-65ee5a018a42&amp;amp;expirationTimestamp=1680698953709&amp;amp;signature=T_sBTIR3IbyVaKgl4tDVGpj97-r2uRWry0sLmZC5e-c&amp;amp;downloadName=servoSpeech1.mp4&quot; width=&quot;640&quot; height=&quot;480&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;https://file.notion.so/f/s/89b7ea76-afd2-4293-9ffa-bfb2aa7f0bcb/servoSpeech1.mp4?id=307b73da-9352-4654-856e-4c799a65b1f4&amp;amp;table=block&amp;amp;spaceId=ea1b9eba-3e00-4e51-a314-65ee5a018a42&amp;amp;expirationTimestamp=1682033005111&amp;amp;signature=QwlDsuu3vWdoxN0s9fDiMPwcIblHob1WxFD3RfRaY1I&amp;amp;downloadName=servoSpeech1.mp4&quot;&gt;Link to a video&lt;/a&gt; of an aarlier prototyping of similar technology (Voice 2 Servo).&lt;/p&gt;
 
+&lt;h1&gt; Idea 2: Grey Area Intelligence System&lt;/h1&gt;
+
+&lt;p&gt;An idea for the final for both Machine Learning for the Web and Live Web.&lt;/p&gt;
+
+&lt;p&gt;Based on a previous assignment for ML4TW (&lt;a href=&quot;https://www.2nd.systems/itp/projects/teachingEarth&quot;&gt;linked here&lt;/a&gt;) in which a lone user is prompted to provide images of specific emotional phenomena (or otherwise gray area identifications of the physical world) through webcam input making use of ml5.js classification tools. In the final adaptation of this idea I’d like to make use of websockets and a storage system like firebase to allow multiple users to contribute images to each category and build a collectivley trained gray area image recognition algorithm.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/training.jpg&quot; alt=&quot;screencap of a webpage featuring webcam feed of a person appearing frightened.&quot; /&gt;
+&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/trainingSwag.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I can see this project taking the form of an installation in which users can choose to train different gray area attitudes and ideas on a small desktop screen and then walk by a larger projection which is putting the training to work by identifying people and assigning pre-taught gray area values to them in a bounding box style based on their facial expressions.&lt;/p&gt;
+
+&lt;p&gt;Below are screencaps of a short film I made with a simulated version of a similar idea:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/ga1.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/ga2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
