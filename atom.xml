@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-04-19T23:36:37+00:00</updated>
+ <updated>2023-04-19T23:37:14+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -19,8 +19,9 @@
    <id>/2023/04/18/ml4wFinal</id>
    <content type="html">&lt;h1&gt; Final Project Ideas &lt;/h1&gt;
 &lt;h2&gt; Idea 1: What Time Is It There? &lt;/h2&gt;
-&lt;p&gt;A speech-controlled clock and installation which makes use of the &lt;a href=&quot;https://worldtimeapi.org/&quot;&gt;World Time API&lt;/a&gt; to allow users to recieve what time it is in any part of the world. In the installation concext the piece is situated in a room outfitted with smart RGB lightbulbs and a speaker system which outputs abstract simulations of the feel of the given time.
-&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/timeSketch.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A speech-controlled clock and installation which makes use of the &lt;a href=&quot;https://worldtimeapi.org/&quot;&gt;World Time API&lt;/a&gt; to allow users to recieve what time it is in any part of the world. In the installation concext the piece is situated in a room outfitted with smart RGB lightbulbs and a speaker system which outputs abstract simulations of the feel of the given time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ratemypraxis/itp/master/media/timeSketch.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Materials:&lt;/p&gt;
 &lt;ul&gt;
