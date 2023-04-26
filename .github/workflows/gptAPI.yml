@@ -1,0 +1,32 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: itp
+          submodules: 'recursive'
+          path: 'projects' # replace with the name of your subdirectory
+    
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Build and inject API key
+        env:
+          API_KEY: ${{ secrets.GPTQUIZAPI }}
+        run: |
+          echo "const apiKey = '${API_KEY}';" >> gptQuiz.js
+          npm run build
+      
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.DEPLOY_KEY }}
+          publish_dir: dist
