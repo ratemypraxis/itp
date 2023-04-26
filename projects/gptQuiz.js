@@ -1,4 +1,4 @@
-const API_KEY = "gptQuizAPI";
+const API_KEY = "GPTQUIZAPI";
 const url = "https://api.openai.com/v1/completions";
 let options = {
   method: "POST",
