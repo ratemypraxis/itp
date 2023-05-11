@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-05-11T20:45:42+00:00</updated>
+ <updated>2023-05-11T20:47:10+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -20,6 +20,8 @@
    <content type="html">&lt;h1 id=&quot;papernet&quot;&gt;Papernet&lt;/h1&gt;
 
 &lt;p&gt;Final project for Live Web. A small network between users around the world and a single thermal printer in NYC. Users sent text messages directly to the printer via a self-hosted https webpage on a Raspberry Pi 3 Model B. Printed messages were then immediatley shredded by a mechanical paper shredder a few inches below.&lt;/p&gt;
+
+&lt;embed src=&quot;https://drive.google.com/file/d/1Yty64iGby4Od_0O24E775831R5KkawXw/preview&quot; width=&quot;640&quot; height=&quot;480&quot; /&gt;
 
 &lt;h2 id=&quot;my-process&quot;&gt;My Process&lt;/h2&gt;
 
