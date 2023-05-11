@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-05-11T20:45:38+00:00</updated>
+ <updated>2023-05-11T20:45:42+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -17,11 +17,11 @@
    <link href="/itp/2023/05/11/papernet"/>
    <updated>2023-05-11T00:00:00+00:00</updated>
    <id>/2023/05/11/papernet</id>
-   <content type="html">&lt;h1 id=&quot;papernet&quot;&gt;Papernet\&lt;/h1&gt;
+   <content type="html">&lt;h1 id=&quot;papernet&quot;&gt;Papernet&lt;/h1&gt;
 
 &lt;p&gt;Final project for Live Web. A small network between users around the world and a single thermal printer in NYC. Users sent text messages directly to the printer via a self-hosted https webpage on a Raspberry Pi 3 Model B. Printed messages were then immediatley shredded by a mechanical paper shredder a few inches below.&lt;/p&gt;
 
-&lt;h2 id=&quot;my-process&quot;&gt;My Process\&lt;/h2&gt;
+&lt;h2 id=&quot;my-process&quot;&gt;My Process&lt;/h2&gt;
 
 &lt;p&gt;1) checkout a TTL adafruit thermal printer&lt;br /&gt;
 2) test printing from an arduino uno&lt;br /&gt;
@@ -34,14 +34,14 @@
 9) ask gpt to make a quick front end page with html and css for user input&lt;br /&gt;
 10) write node.js server to recieve socket data from front end and end to printer over RX + TX 11) share the url and get to manual shredding&lt;/p&gt;
 
-&lt;h2 id=&quot;next-steps&quot;&gt;Next Steps\&lt;/h2&gt;
+&lt;h2 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h2&gt;
 
 &lt;p&gt;-   Build a standalone wood unit to hold the printer above the shredder and servo in place to control the shredder&lt;br /&gt;
 -   Integrate some sort of sensor or timing system to make the servo turn on only when text has recently been printed&lt;br /&gt;
 -   Short-Term: set up the printer in my house and live stream it on the front end page.&lt;br /&gt;
 -   Long-Term: find a permanent home to host papernet (and pay for it’s internet bandwidth lol) in the public eye (ideally a small window like display) where people can only read the text output in person for a short time. Recording of the network would be discouraged through lighting design and sinage.&lt;/p&gt;
 
-&lt;h2 id=&quot;summary-of-technologies-used&quot;&gt;Summary of technologies used:\&lt;/h2&gt;
+&lt;h2 id=&quot;summary-of-technologies-used&quot;&gt;Summary of technologies used:&lt;/h2&gt;
 
 &lt;p&gt;-   Adafruit Thermal Printer TTL connection&lt;br /&gt;
 -   Netgear Nitehawk router&lt;br /&gt;
