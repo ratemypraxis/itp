@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "/itp/2023/05/11/papernet",
+            "title": "Papernet [Live Web]",
+            "summary": null,
+            "content_text": " Papernet Final project for Live Web. A small network between users around the world and a single thermal printer in NYC. Users sent text messages directly to the printer via a self-hosted https webpage on a Raspberry Pi 3 Model B. Printed messages were then immediatley shredded by a mechanical paper shredder a few inches below. My Process 1) checkout a TTL adafruit thermal printer2) test printing from an arduino uno3) source a small mechanical paper shredder4) attempt to attach a 360 degree servo (powered by arduino uno) to mechanical paper shredder (fail for now)5) pivot thermal printing and socket recieving to raspberry pi instead of arduino6) checkout a netgear nitehawk router7) set up port forwarding on 443 (https)8) get a domain name and ssl from namecheap (ty github for students)9) ask gpt to make a quick front end page with html and css for user input10) write node.js server to recieve socket data from front end and end to printer over RX + TX11) share the url and get to manual shredding Next Steps   Build a standalone wood unit to hold the printer above the shredder and servo in place to control the shredder  Integrate some sort of sensor or timing system to make the servo turn on only when text has recently been printed  Short-Term: set up the printer in my house and live stream it on the front end page.  Long-Term: find a permanent home to host papernet (and pay for it’s internet bandwidth lol) in the public eye (ideally a small window like display) where people can only read the text output in person for a short time. Recording of the network would be discouraged through lighting design and sinage. Summary of technologies used:   Adafruit Thermal Printer TTL connection  Netgear Nitehawk router  Raspberry Pi 3 Model B  University enterprise network  Socket.io  Node.js  Html, CSS",
+            "content_html": "<h1> Papernet </h1><p>Final project for Live Web. A small network between users around the world and a single thermal printer in NYC. Users sent text messages directly to the printer via a self-hosted https webpage on a Raspberry Pi 3 Model B. Printed messages were then immediatley shredded by a mechanical paper shredder a few inches below.</p><h2> My Process </h2><p>1) checkout a TTL adafruit thermal printer2) test printing from an arduino uno3) source a small mechanical paper shredder4) attempt to attach a 360 degree servo (powered by arduino uno) to mechanical paper shredder (fail for now)5) pivot thermal printing and socket recieving to raspberry pi instead of arduino6) checkout a netgear nitehawk router7) set up port forwarding on 443 (https)8) get a domain name and ssl from namecheap (ty github for students)9) ask gpt to make a quick front end page with html and css for user input10) write node.js server to recieve socket data from front end and end to printer over RX + TX11) share the url and get to manual shredding</p><h2> Next Steps </h2><ul>  <li>Build a standalone wood unit to hold the printer above the shredder and servo in place to control the shredder</li>  <li>Integrate some sort of sensor or timing system to make the servo turn on only when text has recently been printed</li>  <li>Short-Term: set up the printer in my house and live stream it on the front end page.</li>  <li>Long-Term: find a permanent home to host papernet (and pay for it’s internet bandwidth lol) in the public eye (ideally a small window like display) where people can only read the text output in person for a short time. Recording of the network would be discouraged through lighting design and sinage.</li></ul><h2> Summary of technologies used: </h2><ul>  <li>Adafruit Thermal Printer TTL connection</li>  <li>Netgear Nitehawk router</li>  <li>Raspberry Pi 3 Model B</li>  <li>University enterprise network</li>  <li>Socket.io</li>  <li>Node.js</li>  <li>Html, CSS</li></ul>",
+            "url": "/itp/2023/05/11/papernet",
+            
+            
+            
+            
+            
+            "date_published": "2023-05-11T00:00:00+00:00",
+            "date_modified": "2023-05-11T00:00:00+00:00",
+            
+                "author":  {
+                "name": "sim",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "/itp/2023/04/18/ml4wfinal",
             "title": "Final Ideas [ML for the Web]",
             "summary": null,

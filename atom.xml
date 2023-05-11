@@ -4,13 +4,58 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-04-26T19:34:51+00:00</updated>
+ <updated>2023-05-11T18:47:16+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
    <email>sh4712@nyu.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>Papernet [Live Web]</title>
+   <link href="/itp/2023/05/11/papernet"/>
+   <updated>2023-05-11T00:00:00+00:00</updated>
+   <id>/2023/05/11/papernet</id>
+   <content type="html">&lt;h1&gt; Papernet &lt;/h1&gt;
+
+&lt;p&gt;Final project for Live Web. A small network between users around the world and a single thermal printer in NYC. Users sent text messages directly to the printer via a self-hosted https webpage on a Raspberry Pi 3 Model B. Printed messages were then immediatley shredded by a mechanical paper shredder a few inches below.&lt;/p&gt;
+
+&lt;h2&gt; My Process &lt;/h2&gt;
+
+&lt;p&gt;1) checkout a TTL adafruit thermal printer
+2) test printing from an arduino uno
+3) source a small mechanical paper shredder
+4) attempt to attach a 360 degree servo (powered by arduino uno) to mechanical paper shredder (fail for now)
+5) pivot thermal printing and socket recieving to raspberry pi instead of arduino
+6) checkout a netgear nitehawk router
+7) set up port forwarding on 443 (https)
+8) get a domain name and ssl from namecheap (ty github for students)
+9) ask gpt to make a quick front end page with html and css for user input
+10) write node.js server to recieve socket data from front end and end to printer over RX + TX
+11) share the url and get to manual shredding&lt;/p&gt;
+
+&lt;h2&gt; Next Steps &lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Build a standalone wood unit to hold the printer above the shredder and servo in place to control the shredder&lt;/li&gt;
+  &lt;li&gt;Integrate some sort of sensor or timing system to make the servo turn on only when text has recently been printed&lt;/li&gt;
+  &lt;li&gt;Short-Term: set up the printer in my house and live stream it on the front end page.&lt;/li&gt;
+  &lt;li&gt;Long-Term: find a permanent home to host papernet (and pay for it’s internet bandwidth lol) in the public eye (ideally a small window like display) where people can only read the text output in person for a short time. Recording of the network would be discouraged through lighting design and sinage.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt; Summary of technologies used: &lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Adafruit Thermal Printer TTL connection&lt;/li&gt;
+  &lt;li&gt;Netgear Nitehawk router&lt;/li&gt;
+  &lt;li&gt;Raspberry Pi 3 Model B&lt;/li&gt;
+  &lt;li&gt;University enterprise network&lt;/li&gt;
+  &lt;li&gt;Socket.io&lt;/li&gt;
+  &lt;li&gt;Node.js&lt;/li&gt;
+  &lt;li&gt;Html, CSS&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Final Ideas [ML for the Web]</title>
