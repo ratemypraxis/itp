@@ -4,7 +4,7 @@
  <title>itp blog</title>
  <link href="/itp/atom.xml" rel="self"/>
  <link href="/itp/"/>
- <updated>2023-05-11T20:49:49+00:00</updated>
+ <updated>2023-07-12T15:14:28+00:00</updated>
  <id></id>
  <author>
    <name>sim</name>
@@ -25,6 +25,8 @@
 
 &lt;h2 id=&quot;my-process&quot;&gt;My Process&lt;/h2&gt;
 
+&lt;p&gt;May:&lt;/p&gt;
+
 &lt;p&gt;1) checkout a TTL adafruit thermal printer&lt;br /&gt;
 2) test printing from an arduino uno&lt;br /&gt;
 3) source a small mechanical paper shredder&lt;br /&gt;
@@ -34,7 +36,13 @@
 7) set up port forwarding on 443 (https)&lt;br /&gt;
 8) get a domain name and ssl from namecheap (ty github for students)&lt;br /&gt;
 9) ask gpt to make a quick front end page with html and css for user input&lt;br /&gt;
-10) write node.js server to recieve socket data from front end and end to printer over RX + TX 11) share the url and get to manual shredding&lt;/p&gt;
+10) write node.js server to recieve socket data from front end and end to printer over RX + TX 11) share the url and get to manual shredding\&lt;/p&gt;
+
+&lt;p&gt;June: 
+1) Order an electric (battery powered) mini paper shredder &amp;amp; thermal printer&lt;br /&gt;
+2) Consult Mat Olsen about wooden enclosure + Mat builds enclosure from single plank of natural wood binded with wood glue and screws and stabilized by plywood base (all found materials)&lt;br /&gt;
+3) Secure printer &amp;amp; shredder to enclosure first with industrial grade velcro (supposedly) later with hot glue.
+4) Cable management + pi securing with zipties&lt;/p&gt;
 
 &lt;h2 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h2&gt;
 
